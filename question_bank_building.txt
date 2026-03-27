@@ -1,0 +1,48 @@
+1. Definition / Concept Questions
+
+Purpose: test understanding of core terminology and concepts.
+Examples:
+	•	What is osteoinductivity?
+	•	What is the difference between MIC and MBC?
+Suggested proportion: 10–15%
+
+2. Fact Extraction Questions
+
+Purpose: test extraction of explicit information from a single paper, paragraph, or table.
+Examples:
+	•	What is the base polymer used in this study?
+	•	Which bacterial strain was tested?
+	•	What was the reported gentamicin loading?
+Suggested proportion: 20–25%
+
+3. Evidence Synthesis Questions
+
+Purpose: test integration of evidence across multiple papers or evidence spans.
+Examples:
+	•	Which classes of silver-based coatings are most commonly reported to have strong antibacterial activity?
+	•	Which MOFs are commonly used for antibacterial drug delivery, and what are their main advantages?
+Suggested proportion: 25–30%
+
+4. Comparison Questions
+
+Purpose: test explicit comparison across materials, strategies, or studies.
+Examples:
+	•	What are the relative advantages and disadvantages of chitosan-based versus alginate-based hydrogels for wound healing?
+	•	How does ZIF-8 compare with UiO-66 for drug delivery applications?
+Suggested proportion: 15–20%
+
+5. Condition-Sensitive Questions
+
+Purpose: test whether answers are interpreted under specific experimental conditions.
+Examples:
+	•	Is the conclusion of low cytotoxicity only valid at low dose and short exposure time?
+	•	Why do different studies report different antibacterial results for ZnO nanoparticles?
+Suggested proportion: 15–20%
+
+6. Uncertainty / Conflict Questions
+
+Purpose: test whether the system can recognize insufficient, inconsistent, or conflicting evidence.
+Examples:
+	•	Is the current evidence sufficient to conclude that this material is superior to existing alternatives?
+	•	Is there enough evidence on the long-term toxicity of this class of MOFs?
+Suggested proportion: 10–15%
