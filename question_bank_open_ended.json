@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "8b59fa5f-0dd2-4eb1-baef-5e968e109650",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "1",
+    "question": "What is meant by biomaterials? "
+  },
+  {
+    "id": "6530baef-bbd8-488e-aaa6-1090fd405e53",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "2",
+    "question": "How are biomaterials classified?"
+  },
+  {
+    "id": "4ff46ccd-6e25-42da-8423-19d17ff66eb0",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "3",
+    "question": "What is Carbon ceramic material?"
+  },
+  {
+    "id": "59400ea4-0015-4f32-89c9-8112bd0725ad",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "4",
+    "question": "Draw the different types of solid crystalline structures."
+  },
+  {
+    "id": "a5d7e22c-996d-4424-90a3-7d27ab9d6dcd",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "5",
+    "question": "What are composites?"
+  },
+  {
+    "id": "f53d92ee-08a7-4dd9-954e-03fb1aa9b4da",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "6",
+    "question": "Write short note on polyurethane."
+  },
+  {
+    "id": "920f642e-dab5-4c0a-9a5a-41e207a56d53",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "7",
+    "question": "Give a couple of biomedical applications of composites."
+  },
+  {
+    "id": "cd85554a-4f00-46df-8dca-29208b289f35",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "8",
+    "question": "What are biopolymers?"
+  },
+  {
+    "id": "600f3feb-e3d3-42d2-af17-ca954848752b",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "9",
+    "question": "Write short notes on silicone implants."
+  },
+  {
+    "id": "97147934-05ec-47c1-8eaf-f850ced016fd",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "10",
+    "question": "What are biodegradable polymers, give examples?"
+  },
+  {
+    "id": "0ed696ea-74c2-4bed-a256-f7c069fa6382",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "11",
+    "question": "Write short note on Teflon."
+  },
+  {
+    "id": "5d19467f-f0cd-4872-9380-2ce4ec003c43",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "12",
+    "question": "Bioceramics are classified into how many types explain with examples?"
+  },
+  {
+    "id": "bc266689-dea6-45f4-920c-17900473e098",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "13",
+    "question": "Give a few properties of bioceramics."
+  },
+  {
+    "id": "d8bc9681-2398-4167-b4aa-c06b1cc284c5",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "14",
+    "question": "How does polymer degradation affect the human body?"
+  },
+  {
+    "id": "dc6812c5-89f0-4967-ad17-7e882177dd0d",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "15",
+    "question": "Write short note on temporary implants."
+  },
+  {
+    "id": "8da481c3-a5ec-43f1-8cef-0c74cdf2964b",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "16",
+    "question": "Mention some advantages of ceramics."
+  },
+  {
+    "id": "e0f3e2f0-69bd-439b-9a59-8c63ca2c1f78",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "17",
+    "question": "Give the salient features of hydroxyapatite."
+  },
+  {
+    "id": "0c67eb48-19ee-4c3d-aabe-903b19b547f3",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "18",
+    "question": "Write about the types of failures that occur in orthopedic implants."
+  },
+  {
+    "id": "25ca4cf3-e380-42db-b657-79a6cf1350f5",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "19",
+    "question": "What is creep?"
+  },
+  {
+    "id": "44a30573-7644-4b1a-b135-a5a8779b484a",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "20",
+    "question": "Write short note on polymers. Give examples?"
+  },
+  {
+    "id": "75171707-eaf7-4867-9713-36ae5e9e0855",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "21",
+    "question": "What are the types of stainless steel used in implants?"
+  },
+  {
+    "id": "6aba3bb0-f0f2-45bc-b506-0ffb66534c70",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "22",
+    "question": "Mention some advantages of metals."
+  },
+  {
+    "id": "ae1bf2d3-ac5f-438d-8a40-09aae6997049",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "23",
+    "question": "Write short notes on strength of biological tissues."
+  },
+  {
+    "id": "e26bc0de-0e95-4cf8-bffb-5b47ff83373e",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "24",
+    "question": "Give names of some polymeric materials."
+  },
+  {
+    "id": "54981821-40f6-4697-80e0-a57f83518579",
+    "unit": "UNIT-1",
+    "part": "PART-A",
+    "number": "25",
+    "question": "Categorize the shape of the heterogeneities in the composite material."
+  },
+  {
+    "id": "9a91b5d3-2907-4ba7-b280-428f5f35d54a",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "1",
+    "question": "Describe the properties of two widely used metals in the manufacture of Orthopedic implant devices."
+  },
+  {
+    "id": "1ce641c0-0289-43c6-b480-dba38c7a0255",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "2",
+    "question": "What are the various types of bonding in solid materials? Explain briefly."
+  },
+  {
+    "id": "538ffde4-69da-445d-852e-63b0b76bb7ea",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "3",
+    "question": "Give the effects of polymer degradation and Write about the need and applications of restorable polymers."
+  },
+  {
+    "id": "87f5e393-128d-48dd-a396-bbd02a600c64",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "4",
+    "question": "Give an account of the salient features of polymers used in biomedical applications in details."
+  },
+  {
+    "id": "9c0815f0-2760-4d6a-8ec5-1e8b64dce34d",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "5",
+    "question": "Describe the terms in the field of polymers i) Polyurethane ii) Polymer sterilization iii) Hydrogels iv) Silicone rubber."
+  },
+  {
+    "id": "c75a491e-6d53-4bfb-89b8-ec950e722c7f",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "6",
+    "question": "Bioceramics are used as implant materials – what are the various types, illustrate with properties and examples."
+  },
+  {
+    "id": "443b4793-f783-491d-a6d3-1c59a4f8b358",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "7",
+    "question": "Give a few details of the various surface modification techniques employed to increase the performance of implantation materials."
+  },
+  {
+    "id": "dec9b390-8a58-4812-8690-603facfe3ab2",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "8",
+    "question": "Explain in detail about Carbon ceramic material."
+  },
+  {
+    "id": "9788ce14-d9a6-441b-9284-680c6dc1c617",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "9",
+    "question": "Describe the analysis of ceramic surfaces."
+  },
+  {
+    "id": "f15e96f5-68a9-4773-bbf4-19813d686bea",
+    "unit": "UNIT-1",
+    "part": "PART-B",
+    "number": "10",
+    "question": "Write in detail about biodegradable synthetic polymers."
+  },
+  {
+    "id": "d6b69d5d-7a64-48c3-86cf-b0fb324ee7a6",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "1",
+    "question": "How does the probability of failure vary with implantation period?"
+  },
+  {
+    "id": "3eea281f-734f-4675-9d8f-a4f5d4a79695",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "2",
+    "question": "What are osteoblasts and osteoclasts?"
+  },
+  {
+    "id": "89b0bc5f-78dc-49d9-8b8d-77be827388de",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "3",
+    "question": "Give the composition of human bone OR major and minor constituents of human Bone."
+  },
+  {
+    "id": "c84c6555-ead9-41ee-9f62-c4dbb79f1a66",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "4",
+    "question": "What is the role of microorganisms in polymer applications?"
+  },
+  {
+    "id": "c5e1bf3e-aa22-4f18-8aaa-f4d9ffaebe68",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "5",
+    "question": "Bioceramics are classified into how many types?"
+  },
+  {
+    "id": "a61bf2c9-7e1e-4b70-acc1-233240182369",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "6",
+    "question": "Write about the tissue response to various types of implant materials and how the performance of implants is affected."
+  },
+  {
+    "id": "2535a497-0aa3-4d80-937c-87ea6ddd518a",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "7",
+    "question": "What is the general response to ceramic and wear particles?"
+  },
+  {
+    "id": "367869a8-67e2-458e-b6f9-fb90ff4fd9ca",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "8",
+    "question": "Write about the types of failures that occur in orthopedic implants."
+  },
+  {
+    "id": "384dc675-15a5-40d4-bdeb-eca958a3f62c",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "9",
+    "question": "How does polymer degradation affect the human body?"
+  },
+  {
+    "id": "0e9bf39b-33ea-4b54-8d4c-8c2d65ba6b90",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "10",
+    "question": "Differentiate between normal and abnormal cells."
+  },
+  {
+    "id": "4ed8cb75-0bcd-4366-aa45-09b3d559282a",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "11",
+    "question": "Write about the histology of normal tissues."
+  },
+  {
+    "id": "c76e4d52-5126-43b6-be6e-2cf06ad2325a",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "12",
+    "question": "Write about the pathology of normal tissues."
+  },
+  {
+    "id": "ed4c3e40-d449-4edf-a643-4333a5cc0286",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "13",
+    "question": "Describe the biological environment."
+  },
+  {
+    "id": "aa96e7da-7886-4db0-a3d0-65aa749843d2",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "14",
+    "question": "What is wound healing process?"
+  },
+  {
+    "id": "a4cad2a6-fc6e-4d7d-965c-1e2af01e0500",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "15",
+    "question": "Draw the figure of soft tissue wound healing sequence."
+  },
+  {
+    "id": "4558cf63-df1d-47a5-b2c0-219eb25178a1",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "16",
+    "question": "Write short notes on cellular response to repair."
+  },
+  {
+    "id": "f2604b31-94dd-4133-b095-8b50770a4f76",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "17",
+    "question": "Draw the sequence of events following bone fracture."
+  },
+  {
+    "id": "7ca158de-e26a-4ce0-9fd4-f7cd6b2a0638",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "18",
+    "question": "How the degree of tissue response varies?"
+  },
+  {
+    "id": "06adb2fc-8c57-46db-a536-1574c2316ff0",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "19",
+    "question": "Write short notes no systemic effects of implants."
+  },
+  {
+    "id": "dbc642f6-971b-43cd-9505-6fe24d90fc1c",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "20",
+    "question": "What is blood compatibility?"
+  },
+  {
+    "id": "9ff4eddc-84eb-42e0-be48-c4fde0c14f67",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "21",
+    "question": "What are the failure characteristics of living tissue?"
+  },
+  {
+    "id": "e37f77a3-d80d-48f7-b736-7f97cef4047e",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "22",
+    "question": "Draw the figure of interdependent engineering factors affecting the success of joint replacement."
+  },
+  {
+    "id": "0e18b80f-d57f-4f30-8b44-a6518799d286",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "23",
+    "question": "What is necrosis?"
+  },
+  {
+    "id": "fe6d9ef1-6626-4bdd-922e-0a29f3a15cdf",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "24",
+    "question": "Give a brief summary of tissue response to implants."
+  },
+  {
+    "id": "7bc4f7b9-d975-4ab5-bba2-1de985a1cfb5",
+    "unit": "UNIT-2",
+    "part": "PART-A",
+    "number": "25",
+    "question": "What are the organizations involved in framing the protocols, give examples."
+  },
+  {
+    "id": "3628954d-9a78-42bb-938e-10ce1c76f40a",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "1",
+    "question": "What are the various types of tissue responses to implants? Explain briefly."
+  },
+  {
+    "id": "62469064-ac3b-4af5-98b1-0c24450d7f35",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "2",
+    "question": "Discuss a few methods to test the biological performance of implant materials."
+  },
+  {
+    "id": "748d7823-2004-49a4-9521-67aeae113228",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "3",
+    "question": "Schematically illustrate the various types of interfaces that exist with bone implants."
+  },
+  {
+    "id": "3921a2bc-916b-4ef4-80e6-a163b51a5691",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "4",
+    "question": "Describe briefly the surface properties affecting biomaterials."
+  },
+  {
+    "id": "b62d9ffa-7e69-4dcd-a2d3-b953fa0c6c34",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "5",
+    "question": "Schematically represent and illustrate the interactions that occur at the HAP-bone interface on implantation of hydroxyapatite coated implants."
+  },
+  {
+    "id": "2b21bc31-5cc0-48d4-a4e7-b305c8aadeb1",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "6",
+    "question": "Describe the various invitro and invivo test methods adopted to test and evaluate biomaterials? What are the organizations involved in framing the protocols, give examples."
+  },
+  {
+    "id": "d23787d0-7b93-4c74-940a-ed9d04cf16d8",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "7",
+    "question": "When a surgical implantation is performed? What are the various ways in which the tissues respond to implants? Explain briefly."
+  },
+  {
+    "id": "e0bcdacd-98ee-4f1a-8a84-077fb0e69dbd",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "8",
+    "question": "Describe in detail about wound healing process."
+  },
+  {
+    "id": "1dff627e-e20e-4414-a72a-d70188d22f96",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "9",
+    "question": "Briefly explain about blood compatibility."
+  },
+  {
+    "id": "af014e3d-6e84-4df8-8b15-826e153c622a",
+    "unit": "UNIT-2",
+    "part": "PART-B",
+    "number": "10",
+    "question": "Explain in detail about body response to implants."
+  },
+  {
+    "id": "f3b176aa-b67b-4991-bd31-3b3d754e7ab5",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "1",
+    "question": "Name any four orthodontic materials and their uses."
+  },
+  {
+    "id": "88ca4703-db29-4444-9129-a6670cd90202",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "2",
+    "question": "Name at least four different types of polymers used for biomedical applications."
+  },
+  {
+    "id": "1de24ea0-af61-4adb-a590-b03d7b5a79bc",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "3",
+    "question": "How are polymers synthesized?"
+  },
+  {
+    "id": "a131c258-8c31-4601-8f49-ff47e65e2c02",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "4",
+    "question": "State the advantage and disadvantage of polymers used in bone cement."
+  },
+  {
+    "id": "1fe3ad5a-5a1c-40af-a2bc-c1ddca391e78",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "6",
+    "question": "What is mean by matched filter?"
+  },
+  {
+    "id": "1e6fa9e0-0988-4494-92ac-08c89e0816e0",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "7",
+    "question": "Classify the types of wavelets."
+  },
+  {
+    "id": "6d092691-27b3-4813-9cdc-c60dcdd88b29",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "8",
+    "question": "What is Calcium Orthophosphates?"
+  },
+  {
+    "id": "35a71b9b-29bd-4514-9d23-95dc33c56207",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "9",
+    "question": "Mention the application of Calcium Phosphate Cement in orthopedics."
+  },
+  {
+    "id": "6f9e675b-e3f0-488b-83e3-44415c468b6e",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "10",
+    "question": "Write short note on HA–collagen?"
+  },
+  {
+    "id": "104b843c-b0a6-42e9-971d-5a3d3d5b346e",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "11",
+    "question": "Give the application of calcium phosphate ceramics in tissue engineering."
+  },
+  {
+    "id": "92c79fe5-513d-4851-be0d-ea39af534ac0",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "12",
+    "question": "Define osteoblast."
+  },
+  {
+    "id": "29975b9b-7d35-4683-a768-84f39edbc0b6",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "13",
+    "question": "What is the role of hard tissue in dental application?"
+  },
+  {
+    "id": "b4b7463e-9e47-4fd0-aafc-fd08deab1813",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "14",
+    "question": "Define Scaffold."
+  },
+  {
+    "id": "3e6dda73-9b4c-4d47-83f8-8e80b3f5dc9b",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "15",
+    "question": "Write about inert ceramics."
+  },
+  {
+    "id": "1130f790-82d4-4fe3-ad54-fc1e65b1832f",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "16",
+    "question": "How bones are classified?"
+  },
+  {
+    "id": "5f94d8f4-06a2-47e4-8b08-29bb22351d87",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "17",
+    "question": "Draw the graph of cellular events in bone healing."
+  },
+  {
+    "id": "3a7868de-36c6-45fb-b4b9-32965fb08cac",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "18",
+    "question": "What are the metals used for dental application?"
+  },
+  {
+    "id": "023e8a45-951d-4b70-87f1-9115909e461a",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "19",
+    "question": "What is THR?"
+  },
+  {
+    "id": "d1f7529e-71a6-4512-ab4d-44395c92eefe",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "20",
+    "question": "What is orthopedic implant?"
+  },
+  {
+    "id": "7fea0d88-bf16-40eb-aed5-43c53c60f8c0",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "21",
+    "question": "Define osteoclast."
+  },
+  {
+    "id": "9b58629a-49cc-4a1e-a917-d5934af866db",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "22",
+    "question": "Draw the schematic representation of poorly crystalline carbon."
+  },
+  {
+    "id": "405a3947-d625-4a33-aae5-7443a20437c5",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "23",
+    "question": "Give some uses of alumina in orthopedic implant."
+  },
+  {
+    "id": "7de9a46d-e4de-4b09-a3a9-2880816c73a5",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "24",
+    "question": "Mention some advantages of bioglass implants."
+  },
+  {
+    "id": "e1a1cd81-dce6-4f7e-b0c3-d7d2b04ac7f2",
+    "unit": "UNIT-3",
+    "part": "PART-A",
+    "number": "25",
+    "question": "What are the properties of fibers used for composite materials?"
+  },
+  {
+    "id": "8fc73bda-c061-4777-a44c-ae3d0a482be2",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "1",
+    "question": "Describe the Characteristics of a Biomaterial as a Tissue Engineering Substrate"
+  },
+  {
+    "id": "d8417d3b-e45d-40ee-9ce0-7033da5000c0",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "2",
+    "question": "Explain in detail about cartilage regeneration by biomaterials in orthopedic?"
+  },
+  {
+    "id": "e301ddaf-5fd6-400f-894f-69abc0adbe56",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "3",
+    "question": "Explain with example a) natural polymer b) synthetic polymer"
+  },
+  {
+    "id": "d28a71d1-c62f-411b-b2b7-f3bfd66e6978",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "4",
+    "question": "Describe with example hard tissue in dental applications."
+  },
+  {
+    "id": "1cfae1a6-bb5c-49b7-aa96-be0d6c1f7af1",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "5",
+    "question": "Explain about polymers, metals and ceramics used for hard tissue replacement"
+  },
+  {
+    "id": "618ded9a-fc28-45f1-9829-048f239dc829",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "6",
+    "question": "Describe about physiochemical properties of polymeric materials."
+  },
+  {
+    "id": "50b56c2b-9dcb-48be-89e3-59cd2ee67fa0",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "7",
+    "question": "Write about the various types of soft and hard tissue orthopaedic fixation devices?"
+  },
+  {
+    "id": "94b17251-266b-48e8-a6d1-55537438e431",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "8",
+    "question": "Write about the different types of orthodontic materials – metal, polymers and Ceramics. Explain briefly."
+  },
+  {
+    "id": "1cd1a932-9c26-4323-980e-75ac04e37164",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "9",
+    "question": "Explain in detail about polymers and its types."
+  },
+  {
+    "id": "56d820bc-75a3-43ef-a9ae-abbe0f731d6a",
+    "unit": "UNIT-3",
+    "part": "PART-B",
+    "number": "10",
+    "question": "Explain the following. i) Alumina ii) Carbons"
+  },
+  {
+    "id": "b425957e-8e11-4323-ada8-e7d8d6d6eaeb",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "1",
+    "question": "Define biocompatibility."
+  },
+  {
+    "id": "235d3a62-2fb0-4927-9aa0-74db5915e07c",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "2",
+    "question": "Define Biomaterials and relate it with biocompatibility."
+  },
+  {
+    "id": "b2c3a11a-a79a-4619-a5a3-eb6988da1732",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "3",
+    "question": "Define Hemocompatibility."
+  },
+  {
+    "id": "bbe1db33-8b12-4623-a9d9-fb1f2d512bef",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "4",
+    "question": "What is a tissue?"
+  },
+  {
+    "id": "98168229-320d-48fc-9514-dc5c8376ec1e",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "5",
+    "question": "List the basics criteria for tissue replacement."
+  },
+  {
+    "id": "ea52b6df-264c-4725-beb1-0c89374092ac",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "6",
+    "question": "Schematically depict a tissue-biomaterial interaction."
+  },
+  {
+    "id": "0b7c4b01-798c-4e01-92b2-cb68d420c922",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "7",
+    "question": "What are the basic qualifications of implant materials?"
+  },
+  {
+    "id": "99aff131-d325-44ef-98ac-6ff983ac06f5",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "8",
+    "question": "Name the internal organizations agencies that lay down protocols for testing of implants."
+  },
+  {
+    "id": "dcb9266b-573c-4425-9184-b26f5a9e8e93",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "9",
+    "question": "Write a short note on elastic tissues with examples."
+  },
+  {
+    "id": "db3dabc3-6f0d-4d3b-a207-9ac7e00508ed",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "10",
+    "question": "Depict the typical tissue response to implants."
+  },
+  {
+    "id": "7312defc-4e67-4175-9485-edddf5900a38",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "11",
+    "question": "What is wound healing?"
+  },
+  {
+    "id": "e8ddc99f-7994-4d39-b69e-22d070c0a1d0",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "12",
+    "question": "How does the body respond to release of wear particles?"
+  },
+  {
+    "id": "7316be4c-7186-4f14-b3b0-b742884d250a",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "13",
+    "question": "Write about invivo testing of implants."
+  },
+  {
+    "id": "5b40ab76-1c2a-4a57-a09e-f94e1a9c30b9",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "14",
+    "question": "List a few common type of failures of metallic implants."
+  },
+  {
+    "id": "4e1421e8-53f5-4965-be5f-80d68065d1b5",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "15",
+    "question": "How are sutures classified? Give examples."
+  },
+  {
+    "id": "afb889ed-aa47-4169-9a8d-d8d229ba77dc",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "16",
+    "question": "What is surgical tape?"
+  },
+  {
+    "id": "d50ec723-4cdb-45ac-b780-96a955cbbb7a",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "17",
+    "question": "What are the factors involved in the development of percutaneous devices?"
+  },
+  {
+    "id": "9b559fdb-91ab-4040-b73f-69c7fa6fc983",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "18",
+    "question": "Write short notes on artificial skin."
+  },
+  {
+    "id": "55b5d265-4c3f-453d-bc56-1f31610b20da",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "19",
+    "question": "What is eye implant?"
+  },
+  {
+    "id": "159e9a26-3b74-4b76-ab3c-44f0a3d4aa6c",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "20",
+    "question": "Mention some materials used in fluid transfer implants."
+  },
+  {
+    "id": "d3a2507e-58a9-4268-a12d-6090aee2199d",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "21",
+    "question": "What are the uses of collagen?"
+  },
+  {
+    "id": "d7f7cf5f-b97b-4e05-83e7-e7bed12857b0",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "22",
+    "question": "Write a note on bulk implants."
+  },
+  {
+    "id": "475d0753-72bb-4630-9433-3c5ee4a148a3",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "23",
+    "question": "What types of polymers are used in soft tissue applications?"
+  },
+  {
+    "id": "ce9796b0-eb54-4ce3-adc2-fb27dca897cf",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "24",
+    "question": "Categorize implants in soft tissue."
+  },
+  {
+    "id": "02703b88-95b1-4bec-b6a4-33fb43d0f636",
+    "unit": "UNIT-4",
+    "part": "PART-A",
+    "number": "25",
+    "question": "Write a short note on hydrogels."
+  },
+  {
+    "id": "e6ac450c-b59f-472a-8172-4c77499b1a81",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "1",
+    "question": "Illustrate the types of materials used in percutaneous and skin implants."
+  },
+  {
+    "id": "0586aef6-500b-45a9-b9b9-9f9960578bf7",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "2",
+    "question": "What are the various types of tissue responses to implants and what are the various factors affection the performance of implants? Explain briefly."
+  },
+  {
+    "id": "c3c2c687-a15b-4971-b840-82a35d6158f0",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "3",
+    "question": "Define biocompatibility and write in detail about the impact of biomaterials on the society."
+  },
+  {
+    "id": "180b9af1-d649-4dfe-b2de-3ef0dd6665b3",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "4",
+    "question": "Discuss a few properties that effect the performance of biomaterials."
+  },
+  {
+    "id": "7b472a5c-c8b7-41cb-a3c7-273802de5ee8",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "5",
+    "question": "Discuss a few methods to test the biological performance of implant materials."
+  },
+  {
+    "id": "8fee5df2-cae1-4201-b186-f09477e569bf",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "6",
+    "question": "Explain in detail the various reasons for failure of implantation materials."
+  },
+  {
+    "id": "3dd34dba-9025-4f50-9266-c0c65fc5b0f6",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "7",
+    "question": "What are soft tissue implants? Categorize them and explain the properties of any three."
+  },
+  {
+    "id": "5b2c4e05-4848-405d-b09a-85200e64d1c1",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "8",
+    "question": "Describe the nature and types of corrosion that are responsible for the degradation of implant materials invivo."
+  },
+  {
+    "id": "e2a9ce5c-1556-4d83-99ce-38f8b4b972ff",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "9",
+    "question": "Explain in detail about sutures materials."
+  },
+  {
+    "id": "42f7d0b3-83c5-493b-b2f2-8fdb6d1b100b",
+    "unit": "UNIT-4",
+    "part": "PART-B",
+    "number": "10",
+    "question": "Explain in detail about maxillofacial implants with diagram."
+  },
+  {
+    "id": "6defe1ea-3023-490a-9774-64d961ce8fd0",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "1",
+    "question": "List the draw backs of heart lung machines."
+  },
+  {
+    "id": "336ba74a-9049-4b0f-94b8-8799361e6890",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "2",
+    "question": "State the principle of right ventricular bypass pumps."
+  },
+  {
+    "id": "7d557712-ca28-4e62-b751-750e5d5eaedb",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "3",
+    "question": "What are oxygenators?"
+  },
+  {
+    "id": "3992b465-0159-420b-898b-0c49934b6095",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "4",
+    "question": "List the limitations of artificial organs."
+  },
+  {
+    "id": "a8cb3872-7fae-44f4-b91a-dddc63bea3ce",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "5",
+    "question": "Write about: autograph, allograft."
+  },
+  {
+    "id": "7cc79bb6-d1fe-4388-95e5-b7f9513983ee",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "6",
+    "question": "Write about heart lung assist devices with examples."
+  },
+  {
+    "id": "b687a94a-5402-4e78-a176-202bf3c41202",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "7",
+    "question": "Differentiate between mechanical valves and tissue valves."
+  },
+  {
+    "id": "745af503-de77-429e-869a-baf3fcd1807e",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "8",
+    "question": "Write down a few drawbacks of materials used in heart valves."
+  },
+  {
+    "id": "d44e6234-be6e-4b0b-8b4d-164037b2f3a4",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "9",
+    "question": "State the principle of artificial heart"
+  },
+  {
+    "id": "32c2bf8c-dd96-4174-a41d-65585a04ecb2",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "10",
+    "question": "Write short note on xenograft and rejected."
+  },
+  {
+    "id": "8b6b5e3e-9f90-4c27-8f4d-4fa8828ab408",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "11",
+    "question": "Highlight a few basic engineering concerns related to design of heart valves."
+  },
+  {
+    "id": "849797c5-2555-459f-ac1a-9c1b946d9ea1",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "12",
+    "question": "Write about cardiac pacemakers."
+  },
+  {
+    "id": "3cf68c89-f215-4cbb-98e1-516adb0b4e4e",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "13",
+    "question": "What is effective orifice area?"
+  },
+  {
+    "id": "960993ce-e74f-4634-b975-b95c3ddf56b0",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "14",
+    "question": "What is meant by effective orifice area?"
+  },
+  {
+    "id": "83eefa70-fd27-419f-83c7-dbc4d5bd3d24",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "15",
+    "question": "When does a patient require an artificial heart?"
+  },
+  {
+    "id": "8237b2d6-c61c-4119-8bc2-f19ddf877e80",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "16",
+    "question": "What are the pathological aspects of patient? who needs cardiac assist devices?"
+  },
+  {
+    "id": "881cfab7-b002-477c-ae53-abe44026a628",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "17",
+    "question": "Differentiate internal and external pacemaker."
+  },
+  {
+    "id": "3685ad1f-29ad-4ac1-b60c-974ac03fcc17",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "18",
+    "question": "What is heart lung machine?"
+  },
+  {
+    "id": "1cc83637-d602-4da0-acc3-af89633d48df",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "19",
+    "question": "Write down the types of oxygenators."
+  },
+  {
+    "id": "477a824a-fc8d-4ef4-9c1b-7868e2308658",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "20",
+    "question": "Illustrate mechanical and chemical characteristics of natural versus artificial lung."
+  },
+  {
+    "id": "05479170-d75f-4d11-a0ff-ff289a5264be",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "21",
+    "question": "What are SA and AV node?"
+  },
+  {
+    "id": "834ceb60-d393-4fe0-81ef-42ab891546e0",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "22",
+    "question": "What are the uses of heart lung machine during surgery?"
+  },
+  {
+    "id": "0a2b1599-d648-4d7f-adf4-b1db3c844692",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "23",
+    "question": "What is meant by pressure gradient?"
+  },
+  {
+    "id": "57eef1d5-1c1b-46dd-ae0b-9c191d993422",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "24",
+    "question": "What are the characteristics an ideal heart valve?"
+  },
+  {
+    "id": "5981d8d6-4f01-49d6-bd13-8531dd6aedf5",
+    "unit": "UNIT-5",
+    "part": "PART-A",
+    "number": "25",
+    "question": "What are oxygenators?"
+  },
+  {
+    "id": "cf12130b-2ccc-4ef7-8974-c50bb8531c21",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "1",
+    "question": "Compare the salient features and drawbacks of mechanical versus tissue heart Valves."
+  },
+  {
+    "id": "b985d2e1-2d40-4d5e-a3bb-fd5e82ad8f96",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "2",
+    "question": "What are oxygenators? Explain in detail the principle and functioning of any three types of oxygenators."
+  },
+  {
+    "id": "77b1138c-cd08-46d3-81b9-bfd1d97030e0",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "3",
+    "question": "Highlight the important concepts to be considered in the design of artificial organs."
+  },
+  {
+    "id": "7f68efa8-24d6-4a20-a076-dfbbb75c3449",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "4",
+    "question": "What are the characteristics an ideal heart valve should possess?  Explain the terms pressure gradient, effective orifice area and regurgitation."
+  },
+  {
+    "id": "38920d87-100e-4c75-9818-513d24749f5f",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "5",
+    "question": "Write about the different types of mechanical heart valves which are used to restore the normal cardiac functions? Explain briefly."
+  },
+  {
+    "id": "b8bab983-9b62-4738-a065-d41086ecc98e",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "6",
+    "question": "Explain the various engineering concerns to be followed in the design of prosthetic heart valves."
+  },
+  {
+    "id": "cb6d2937-b3b3-43fa-9a40-264a5513c5db",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "7",
+    "question": "Discuss the history of development of artificial heart."
+  },
+  {
+    "id": "b208c5c3-46e1-4211-9c51-0f4c28cb52f2",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "8",
+    "question": "Describe in detail about Heart lung machine."
+  },
+  {
+    "id": "cc98a1eb-2067-4fd1-9d54-08fb9ff4d792",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "9",
+    "question": "Explain the blood compatibility of synthetic vascular implant materials."
+  },
+  {
+    "id": "59777ff1-c44b-49fa-afb2-4903aa5aaf6c",
+    "unit": "UNIT-5",
+    "part": "PART-B",
+    "number": "10",
+    "question": "Describe in detail about cardiac pacemakers."
+  }
+]
