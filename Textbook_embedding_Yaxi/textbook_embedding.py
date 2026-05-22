@@ -6,13 +6,15 @@ import faiss
 import numpy as np
 from typing import List
 
+from paths import EXPORT_TEXTBOOK_CSV, FAISS_INDEX, METADATA_CSV, TEXTBOOK_DIR
+
 # === CONFIG ===
-CSV_PATH = "/home/yaxi/biomaterialsGPT/textbook/export_textbook.csv"
-PDF_DIR = "/home/yaxi/biomaterialsGPT/textbook/"
+CSV_PATH = str(EXPORT_TEXTBOOK_CSV)
+PDF_DIR = str(TEXTBOOK_DIR) + os.sep
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 CHUNK_SIZE = 3000
-FAISS_INDEX_PATH = "/home/yaxi/biomaterialsGPT/textbook/biomaterials_index.faiss"
-METADATA_PATH = "/home/yaxi/biomaterialsGPT/textbook/biomaterials_metadata.csv"
+FAISS_INDEX_PATH = str(FAISS_INDEX)
+METADATA_PATH = str(METADATA_CSV)
 
 print("🔧 Configuration loaded.")
 print(f"CSV path: {CSV_PATH}")

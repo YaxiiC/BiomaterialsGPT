@@ -1,5 +1,5 @@
 import sys
-#print("✅ FAISS subprocess started")
+from paths import FAISS_INDEX, METADATA_CSV
 
 try:
     from sentence_transformers import SentenceTransformer
@@ -22,8 +22,8 @@ if not query:
 
 try:
     model = SentenceTransformer("all-MiniLM-L6-v2")
-    index = faiss.read_index("biomaterials_index.faiss")
-    metadata = pd.read_csv("biomaterials_metadata.csv")
+    index = faiss.read_index(str(FAISS_INDEX))
+    metadata = pd.read_csv(METADATA_CSV)
 
     embedding = model.encode([query])
     D, I = index.search(np.array(embedding).astype("float32"), 5)

@@ -2,13 +2,7 @@ import json
 import csv
 import subprocess
 
-def fetch_context(query):
-    results = subprocess.check_output(
-        ["python", "/home/yaxi/biomaterialsGPT/search_faiss.py", query],
-        text=True
-    )
-    chunks = [line for line in results.strip().split("\n") if line]
-    return "\n\n".join(chunks)
+from paths import OPEN_ENDED_BANK_JSON, OUTPUTS_DIR, fetch_rag_context
 
 def ask_llm_open_ended(question, context):
     prompt = f"""You are a knowledgeable assistant in the field of biomaterials.
@@ -32,10 +26,11 @@ Answer the question clearly and directly, with no extra commentary, internal tho
         return ""
 
 def main():
-    with open("question_bank_open_ended.json", "r", encoding="utf-8") as f:
+    with open(OPEN_ENDED_BANK_JSON, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
-    with open("open_qa_with_llm_withoutRAG.csv", "w", newline="", encoding="utf-8") as csvfile:
+    out_path = OUTPUTS_DIR / "open_qa_with_llm_withoutRAG.csv"
+    with open(out_path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=[
             "id", "unit", "part", "number", "question", "llm_answer"
         ])
@@ -45,7 +40,7 @@ def main():
             q_text = item["question"]
 
             # 1) RAG context
-            ctx = fetch_context(q_text)
+            ctx = fetch_rag_context(q_text)
 
             # 2) Query the model
             llm_answer = ask_llm_open_ended(q_text, ctx)
@@ -62,7 +57,7 @@ def main():
 
             print(f"Q{item['number']} → answer written")
 
-    print("✅ Saved results to open_qa_with_llm_withoutRAG.csv")
+    print(f"✅ Saved results to {out_path}")
 
 if __name__ == "__main__":
     main()

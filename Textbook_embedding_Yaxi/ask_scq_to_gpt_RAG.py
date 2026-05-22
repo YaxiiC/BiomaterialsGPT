@@ -9,6 +9,8 @@ from openai import OpenAI
 import sys
 import io
 
+from paths import OUTPUTS_DIR, SCQ_BANK_JSON, fetch_rag_context
+
 # Force stdout/stderr encoding to UTF-8
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
@@ -33,14 +35,7 @@ def normalize_unicode(text):
 def fetch_context(query):
     query = clean_text(query)
     try:
-        results = subprocess.check_output(
-            ["python", "/home/yaxi/biomaterialsGPT/search_faiss.py", query],
-            text=True,
-            encoding='utf-8',  # <<< enforce UTF-8 decoding here
-            errors='replace' 
-        )
-        chunks = [line for line in results.strip().split("\n") if line]
-        return clean_text("\n\n".join(chunks))
+        return clean_text(fetch_rag_context(query))
     except subprocess.CalledProcessError as e:
         print(f"❌ Error fetching context: {e}")
         return ""
@@ -116,10 +111,11 @@ def parse_response(resp_text):
     return option, explanation
 
 def main():
-    with open("scq_bank.json", "r", encoding="utf-8") as f:
+    with open(SCQ_BANK_JSON, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
-    with open("scq_with_gpt_withRAG.csv", "w", newline="", encoding="utf-8") as csvfile:
+    out_path = OUTPUTS_DIR / "scq_with_gpt_withRAG.csv"
+    with open(out_path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=[
             "id", "section", "number", "question",
             "correct_answer", "predicted_option", "explanation"
@@ -159,7 +155,7 @@ def main():
 
             print(f"Q{item['number']} → predicted {pred_opt}, actual {item.get('answer')}")
 
-    print("✅ Saved results to scq_with_gpt_withRAG.csv")
+    print(f"✅ Saved results to {out_path}")
 
 if __name__ == "__main__":
     main()

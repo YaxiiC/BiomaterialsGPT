@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "e303d77f-5299-483e-a78e-a0de4aedda2f",
+    "section": "Properties of Biomaterials",
+    "number": "1",
+    "question": "Which of the following is a characterization technique used to measure Young’s modulus of a biomaterial?",
+    "options": {
+      "a": "Tensile test",
+      "b": "Compression test",
+      "c": "Three- and four-point bend test",
+      "d": "Calculation from the stress-strain curve"
+    },
+    "answer": "d",
+    "explanation": "Tensile test helps in measurement of tensile strength, Compression test helps in measurement of Compressive strength, three- and four-point bend test helps in measurement of flexural strength and calculations from stress-strain curve help in measurement of Young’s modulus."
+  },
+  {
+    "id": "63d0b155-c58d-449b-a14b-636164922333",
+    "section": "Properties of Biomaterials",
+    "number": "2",
+    "question": "Which of the following is a characterization technique used to measure the Ductility of a biomaterial?",
+    "options": {
+      "a": "Calculations from strength test",
+      "b": "Single edge notched-beam Indirect measurement",
+      "c": "Indentation",
+      "d": "Cyclic stress test"
+    },
+    "answer": "a",
+    "explanation": "Calculations from strength test help in measurement of Ductility, Single edge notched-beam Indirect measurement helps in measurement of Toughness, Indentation helps in measurement of Hardness and Cyclic stress test help in the measurement of Fatigue."
+  },
+  {
+    "id": "87b070c2-3f30-42f7-92e1-e77498208333",
+    "section": "Properties of Biomaterials",
+    "number": "3",
+    "question": "Constant stress test helps in measurement of ____________ for a biomaterial.",
+    "options": {
+      "a": "ductility",
+      "b": "toughness",
+      "c": "creep",
+      "d": "fatigue"
+    },
+    "answer": "a",
+    "explanation": "Calculations from strength test help in measurement of Ductility, Single edge notched-beam Indirect measurement helps in measurement of Toughness, Constant stress test helps in measurement of Creep and Cyclic stress test help in measurement of Fatigue."
+  },
+  {
+    "id": "5727ae91-c858-4d5e-83f7-40f417eefe1b",
+    "section": "Properties of Biomaterials",
+    "number": "4",
+    "question": "Elastic modulus helps in determining the strength of a biomaterial and it is measured using indentation.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Elastic modulus helps in determining the degree to which the biomaterial can be stretched on the application of force and it reverts back to its original configuration on the release of the force and it is measured using calculations obtained from the stress-strain curve."
+  },
+  {
+    "id": "37fbcb76-2ec8-470d-bb76-664db43bb365",
+    "section": "Properties of Biomaterials",
+    "number": "5",
+    "question": "Which of the following physiochemical properties of a biomaterial might cause a cellular response that might affect the cellular motility, adhesion, survival, and differentiation?",
+    "options": {
+      "a": "Stiffness",
+      "b": "Porosity",
+      "c": "Charge",
+      "d": "Surface chemistry"
+    },
+    "answer": "a",
+    "explanation": "Stiffness might affect cellular motility, adhesion, survival and differentiation. Porosity might affect the maximum possible accommodation of cells in the scaffold. The charge might affect cellular uptake and spread. Surface chemistry might affect the long-term functional differentiation of cells."
+  },
+  {
+    "id": "6a1d822f-9c8b-4d0f-a6c9-c14c5041982c",
+    "section": "Properties of Biomaterials",
+    "number": "6",
+    "question": "Topography and roughness of a biomaterial affect the maximum possible accommodation of cells in the scaffold.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Topography and roughness of a biomaterial affect the cellular orientation and contact guidance of fibroblast epithelial cell lines."
+  },
+  {
+    "id": "0bab4adf-cf6c-4594-948c-58d6ef626699",
+    "section": "Properties of Biomaterials",
+    "number": "7",
+    "question": "The pore size of the biomaterial affects the long-term functional differentiation of cells.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Pore size of the biomaterial affects the cellular affinity and viability by influencing cellular movement, binding and spreading, intracellular signaling and transport of nutrients and metabolites. This a cellular response of chondrocyte cell lines usually."
+  },
+  {
+    "id": "757d81f8-e8c4-40cc-8236-87e32d9ca7d7",
+    "section": "Properties of Biomaterials",
+    "number": "8",
+    "question": "Which of the following gel/hydrogel is formed by a physical gelation mechanism?",
+    "options": {
+      "a": "Polyester gel",
+      "b": "Gelatin",
+      "c": "CMC-g-acrylic acid",
+      "d": "Polydimethyl siloxane"
+    },
+    "answer": "b",
+    "explanation": "Polyester gel, CMC-g-acrylic acid and Polydimethylsiloxane are prepared by chemical gelation mechanisms. Gelatin is prepared by a physical gelation mechanism."
+  },
+  {
+    "id": "2ca7ce22-a1a0-4359-9c1b-5287af07af5b",
+    "section": "Properties of Biomaterials",
+    "number": "9",
+    "question": "______________is prepared by condensation which is a chemical gelation mechanism.",
+    "options": {
+      "a": "Polyester gel",
+      "b": "Polyvinyl chloride",
+      "c": "Polythene",
+      "d": "Polystyrene"
+    },
+    "answer": "a",
+    "explanation": "The Polyester gel is a gel/hydrogel that is prepared by a chemical gelation mechanism called condensation. Polyvinyl chloride, polythene and polystyrene are prepared by addition."
+  },
+  {
+    "id": "42416da6-4f9b-44a8-ad96-219f3397318c",
+    "section": "Properties of Biomaterials",
+    "number": "10",
+    "question": "Which of the following is not a chemical gelation mechanism?",
+    "options": {
+      "a": "Condensation",
+      "b": "Addition",
+      "c": "Cross-linking",
+      "d": "Weak"
+    },
+    "answer": "d",
+    "explanation": "Condensation, Addition and Cross linking are chemical gelation mechanisms. In the Condensation mechanism, the monomers react in order to form a bond by replacing a few molecules and generation of by-products. In the Addition mechanism, the polymer is formed by simple linking of the monomers without the generation of any by-product. In the cross-linking mechanism the polymer chain of one monomer links the polymer chain of another monomer in order to form a structurally complex polymer. Weak is the physical gelation mechanism."
+  },
+  {
+    "id": "cb778a8c-960c-4434-b4d6-68fe0e8cda06",
+    "section": "Natural Biomaterials",
+    "number": "11",
+    "question": "_________________ helps in maintaining the structural integrity of most of the connective tissues in animals.",
+    "options": {
+      "a": "Collagen",
+      "b": "Keratin",
+      "c": "Elastin",
+      "d": "Mucosal layer"
+    },
+    "answer": "a",
+    "explanation": "Collagen is found in most of mammalian tissues. Collagen helps in maintaining the structural integrity of most of the connective tissues in animals. The human body is a rich source of collagen type I-IV among more than 20 different collagen types found in the body."
+  },
+  {
+    "id": "cf9e3c29-a1c2-4031-9b25-c30e59555cec",
+    "section": "Natural Biomaterials",
+    "number": "12",
+    "question": "Which of the following have a structure with three peptide chains bound with each other to form a rope-like structure?",
+    "options": {
+      "a": "Collagen",
+      "b": "DNA",
+      "c": "RNA",
+      "d": "Peptidoglycan"
+    },
+    "answer": "a",
+    "explanation": "Collagen has a rope-like structure in which three peptide chains are intertwined. Collagen gels are thermally reversible with limited mechanical properties."
+  },
+  {
+    "id": "74e24a9c-64f1-4c22-8220-e2122d681f1f",
+    "section": "Natural Biomaterials",
+    "number": "13",
+    "question": "Type I collagen is the dominant component in the native __________ scaffold.",
+    "options": {
+      "a": "bone",
+      "b": "heart",
+      "c": "liver",
+      "d": "cartilage"
+    },
+    "answer": "a",
+    "explanation": "Type I collagen is the dominant component in the native bone scaffold and plays an important role in bone formation from stem/progenitor cells through a developmental cascade."
+  },
+  {
+    "id": "3857b1d5-c0fb-4e00-bae4-63dfa4a4175d",
+    "section": "Natural Biomaterials",
+    "number": "14",
+    "question": "Collagen can be found naturally in cartilage tissue.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "Collagen can naturally be found in cartilage tissue and regulates chondrocyte adhesion and stem cell differentiation to chondrocytes through molecular interactions between the protein ligands and the cells."
+  },
+  {
+    "id": "759ae420-bc43-44d7-80be-ff46c00630ad",
+    "section": "Natural Biomaterials",
+    "number": "15",
+    "question": "Hyaluronic acid plays an important role in ____________",
+    "options": {
+      "a": "wound Healing",
+      "b": "adhesion",
+      "c": "migration",
+      "d": "differentiation"
+    },
+    "answer": "a",
+    "explanation": "Hyaluronic acid or hyaluronan is a natural material that is widely found in connective tissues. It is one of the simplest GAG components in the ECM and plays an important role in wound healing in the body."
+  },
+  {
+    "id": "63707892-0582-4f66-97f7-870bcaea03f7",
+    "section": "Natural Biomaterials",
+    "number": "16",
+    "question": "Hyaluronic acid can be degraded by chitinase.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Hyaluronic acid can be degraded by hyaluronidase derived from serum and cells. However, hyaluronic acid needs a precise purification procedure to remove impurities and endotoxins that may cause an immune response or disease."
+  },
+  {
+    "id": "a6750015-90b8-4486-a149-94a6bfc87774",
+    "section": "Natural Biomaterials",
+    "number": "17",
+    "question": "PVC is usually added to hyaluronic acid in order to control its mechanical properties.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Adding some functional groups to hyaluronic acid can provide a more hydrophobic material capable of chemical cross-linking with other polymers such as PEG to control its mechanical properties."
+  },
+  {
+    "id": "6497d2ec-f3e0-428c-9601-06408722bc71",
+    "section": "Natural Biomaterials",
+    "number": "18",
+    "question": "____________ is one of the most common methods of modifying hyaluronic acid.",
+    "options": {
+      "a": "Esterification",
+      "b": "Enzymatic modification",
+      "c": "Hydrolysis",
+      "d": "Trans-esterification"
+    },
+    "answer": "a",
+    "explanation": "The esterification of hyaluronic acid is the most commonly used approach to modify hyaluronic acid. Hayff-11 is a benzyl ester of hyaluronic acid that has been commercialized and clinically approved."
+  },
+  {
+    "id": "0d862433-b837-459a-916e-0262d2ecba85",
+    "section": "Natural Biomaterials",
+    "number": "19",
+    "question": "Alginic acid is obtained from ___________",
+    "options": {
+      "a": "brown algae",
+      "b": "amoeba",
+      "c": "goldfish",
+      "d": "phytoplankton"
+    },
+    "answer": "a",
+    "explanation": "Alginic acid or alginate is the main structural component of seaweed and is obtained from brown algae’s extracellular matrix. It is a high molecular weight linear polymer and few studies have reported that alginic acid inhibits the HIV reverse transcriptase activity."
+  },
+  {
+    "id": "457564ee-9f26-4a33-8f05-494599adc017",
+    "section": "Natural Biomaterials",
+    "number": "20",
+    "question": "_______ and ________ are monomers of Alginate.",
+    "options": {
+      "a": "Sucrose and glucose",
+      "b": "Maltose and galactose",
+      "c": "Mannuronic acid and guluronic acid",
+      "d": "Galactose and glucose"
+    },
+    "answer": "c",
+    "explanation": "Alginates are a type of polysaccharide block copolymers containing monomers of sequential β-d-mannuronic acid and α-l-guluronic acid, which are distributed in the polymer chain."
+  },
+  {
+    "id": "31b6667c-ad20-4f9d-8cc8-1a6f01c889c7",
+    "section": "Natural Biomaterials",
+    "number": "21",
+    "question": "Alginate is suitable for __________________",
+    "options": {
+      "a": "drug delivery",
+      "b": "wound Healing",
+      "c": "storage",
+      "d": "consumption"
+    },
+    "answer": "a",
+    "explanation": "Alginate has wide applications in TE and drug delivery due to its low toxicity, relatively low cost, and ease of chemical modification and gelation."
+  },
+  {
+    "id": "385bfcac-966a-4d83-99e0-e5ecb34de43a",
+    "section": "Natural Biomaterials",
+    "number": "22",
+    "question": "Covalent cross-linking of alginate gels with different molecules is a useful approach to control the __________ and mechanical properties of gels.",
+    "options": {
+      "a": "swelling",
+      "b": "strength",
+      "c": "toughness",
+      "d": "porosity"
+    },
+    "answer": "a",
+    "explanation": "Alginate has the drawback of degradation through an uncontrollable and unpredictable process to release divalent ions into its surrounding medium. Covalent cross-linking of alginate gels with different molecules is a useful approach to control the swelling and mechanical properties of gels."
+  },
+  {
+    "id": "4ac94aa1-b47d-4782-bf6b-bf63ce8bdb19",
+    "section": "Natural Biomaterials",
+    "number": "23",
+    "question": "Addition of _________ to alginate improves the cellular binding and interactions.",
+    "options": {
+      "a": "lectin",
+      "b": "adenosine",
+      "c": "collagen",
+      "d": "elastin"
+    },
+    "answer": "a",
+    "explanation": "Modified alginate gels with some proteins, such as lectin, have high cellular binding and interactions. Such modified alginate gels have been used to culture muscle cells and make muscle tissues."
+  },
+  {
+    "id": "d7e6f139-7654-4713-bfe0-a78623ed1351",
+    "section": "Natural Biomaterials",
+    "number": "24",
+    "question": "Mechanical properties of alginate reduce in the presence of K+ ions.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "In a clinical trial, patients suffering from a lesion in the femoral condyle were successfully treated with the autologous chondrocytes cultured in the alginate–agarose scaffolds. However, alginate gels are relatively unstable in physiological media because of a decrease in mechanical properties of the gels due to the replacement of Ca2+ ions with Na+ or K+ ions in the polymer chains."
+  },
+  {
+    "id": "9ddffdd5-413b-412f-a2ed-a705563995d1",
+    "section": "Natural Biomaterials",
+    "number": "25",
+    "question": "___________ can be obtained by the deacetylation of chitin.",
+    "options": {
+      "a": "Chitosan",
+      "b": "Cellulose",
+      "c": "Actin",
+      "d": "Fibrin"
+    },
+    "answer": "a",
+    "explanation": "Chitin on deacetylation gives Chitosan. Chitosan can be used as a biomaterial that is biomimetic in nature, this is due to its structural similarity to the GAGs in native tissues."
+  },
+  {
+    "id": "8ae4aa7e-e2cb-4dab-98bd-bccb644b6357",
+    "section": "Natural Biomaterials",
+    "number": "26",
+    "question": "Chitosan can be dissolved only in dilute acids because of its high porosity.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Due to the high crystallinity and a chemical structure with amino acids, only dilute acids have the ability to dissolve Chitosan."
+  },
+  {
+    "id": "2c8bf0bf-3efb-4a24-80f4-a9cf2c53201e",
+    "section": "Natural Biomaterials",
+    "number": "27",
+    "question": "Chitosan has a similar structure to Glycos-Amino-Glycans (GAGs) in cartilage.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "Chitosan is a favorite scaffold material in articular TE applications because of its similar structure to GAGs in cartilage-stimulating chondrogenesis."
+  },
+  {
+    "id": "d6226d0b-f7d1-4c08-b510-585eb4518ef1",
+    "section": "Natural Biomaterials",
+    "number": "28",
+    "question": "____________ is a natural polymer derived from collagen.",
+    "options": {
+      "a": "Gelatin",
+      "b": "Keratin",
+      "c": "PVC",
+      "d": "Polythene"
+    },
+    "answer": "a",
+    "explanation": "Gelatin is a thermoresponsive, natural biomaterial extracted from collagen via breaking its triple-helix structure into single-strand molecules. It is more cost-effective and less antigenic than collagen."
+  },
+  {
+    "id": "31fdc385-b40d-4f1b-b386-21efdb49fed7",
+    "section": "Natural Biomaterials",
+    "number": "29",
+    "question": "____________ consists of a network of fibrous proteins.",
+    "options": {
+      "a": "Fibrin",
+      "b": "Collagen",
+      "c": "Alginate",
+      "d": "Gelatin"
+    },
+    "answer": "a",
+    "explanation": "Fibrin comprises a network of fibrous proteins. The structural unit of fibrin polymer is fibrinogen, which can be derived from blood coagulated as a result of an injury."
+  },
+  {
+    "id": "c6922c67-f010-4007-887b-acbf84582e1e",
+    "section": "Natural Biomaterials",
+    "number": "30",
+    "question": "Fibrin is formed by the enzymatic polymerization of fibrinogen using ____________",
+    "options": {
+      "a": "thrombin",
+      "b": "keratin",
+      "c": "calcium",
+      "d": "hydrochloric acid"
+    },
+    "answer": "a",
+    "explanation": "Fibrin gels are formed at room temperature through the enzymatic polymerization of fibrinogen using thrombin and its degradation rate can be controlled by aprotinin or tranexamic acid."
+  },
+  {
+    "id": "447b10ae-d632-47af-a4fe-ac5db79db430",
+    "section": "Natural Biomaterials",
+    "number": "31",
+    "question": "The major drawback of using fibrin is its shrinkage.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "A major drawback of using fibrin is its shrinkage in vivo. In addition, fibrin gel has limited mechanical strength particularly after implantation in vivo."
+  },
+  {
+    "id": "a783a461-dd86-4f1a-b4c6-8def490d33b4",
+    "section": "Natural Biomaterials",
+    "number": "32",
+    "question": "Silk is a natural biomaterial produced by ____________",
+    "options": {
+      "a": "spiders",
+      "b": "cockroaches",
+      "c": "ants",
+      "d": "earthworms"
+    },
+    "answer": "a",
+    "explanation": "Silk is a natural biomaterial produced by spiders. It has been studied intensively for a long time as a biomaterial because of its low inflammatory response, biodegradability, tunable structural and chemical properties and high mechanical properties."
+  },
+  {
+    "id": "c9f21865-f72f-4892-b8d0-842bc709a6e8",
+    "section": "Natural Biomaterials",
+    "number": "33",
+    "question": "_____________ was synthesized by the reaction of silk with lactose using cyanuric chloride as the coupling spacer.",
+    "options": {
+      "a": "Galactosylated silk fibroin",
+      "b": "Sulfonated silk fibroin",
+      "c": "Elastin",
+      "d": "Fibrin"
+    },
+    "answer": "a",
+    "explanation": "Galactosylated silk fibroin was synthesized by the reaction of silk with lactose using cyanuric chloride as the coupling spacer. Hepatocytes were able to attach to the galactosylated-silk-coated substrates by approximately eightfold higher than those attached to the untreated substrates."
+  },
+  {
+    "id": "81da46ed-8a46-4548-a84f-c2ee31a7f50d",
+    "section": "Natural Biomaterials",
+    "number": "34",
+    "question": "Peptides are composed of amino acids.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "Proteins are the main constituents of all living cells. They are composed of amino acid chains. A peptide molecule is made up of more than one amino acid linked together with a peptide bond."
+  },
+  {
+    "id": "9496cb09-c148-4ebf-8768-260fa3fdbaca",
+    "section": "Natural Biomaterials",
+    "number": "35",
+    "question": "___________ Elastin is one of the components in natural ECM.",
+    "options": {
+      "a": "Chitosan",
+      "b": "Cellulose",
+      "c": "Elastin",
+      "d": "Fibrin"
+    },
+    "answer": "c",
+    "explanation": "Elastin is one of the components in natural ECM, providing elasticity to the different tissues in the body, such as the lungs, skin and blood vessels."
+  },
+  {
+    "id": "4772d547-18e6-48af-8c7e-655dc6c549c1",
+    "section": "Natural Biomaterials",
+    "number": "36",
+    "question": "The half-life of elastin is 24 hours.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "The half-life of elastin in the body is almost 70 years, and elastic fibers are insoluble and highly stable in native tissues, preventing their ease of processing as a biomaterial."
+  },
+  {
+    "id": "77c0f78c-be40-4349-988c-5ffcb72c1943",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "37",
+    "question": "What is the first step in Biomaterial-tissue interactions?",
+    "options": {
+      "a": "Cell Migration",
+      "b": "Adsorption of proteins",
+      "c": "Cell Development",
+      "d": "Cell adhesion"
+    },
+    "answer": "d",
+    "explanation": "The initial phase in biomaterial–tissue connection is the underlying adsorption of proteins onto the outside of the biomaterial, which, in a mix with the physical and multiple properties of the surface, is thought to prompt ensuing cell practices, for example, bond, spreading and expansion."
+  },
+  {
+    "id": "00ad76cd-b20b-49dc-9510-31c52fde9190",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "38",
+    "question": "The biomaterials are expected to mimic the functions of ____________",
+    "options": {
+      "a": "Extracellular Matrix (ECM)",
+      "b": "Transmembrane proteins",
+      "c": "Cytoplasm",
+      "d": "Cell Organelles"
+    },
+    "answer": "a",
+    "explanation": "TE depends on platform biomaterials that will have cells from the body and, with the assistance of development factors or a bioreactor, will ideally prompt tissue regeneration. These biomaterials are subsequently expected to mirror the ECM capacities and connections with the cells and the encompassing tissues. These connections have now moved past a straightforward association with the organic frameworks to impact the natural procedures that can prompt tissue recovery."
+  },
+  {
+    "id": "c8373ffa-1ab0-4a5b-9dd0-b0229b0ad9e6",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "39",
+    "question": "_____________ is the first process involved in Biomaterial-Tissue interaction.",
+    "options": {
+      "a": "Foreign Body Response",
+      "b": "Elongation",
+      "c": "Adhesion",
+      "d": "Replication"
+    },
+    "answer": "a",
+    "explanation": "All in all, the nature of the cooperation among biomaterials and tissues in the body can be portrayed by two primary procedures. The foreign body response (FBR), is particularly activated on account of an implantable gadget so as to shield the body from the remote material. Once the biomaterial gadget or platform is embedded in the body, a tissue/biomaterial interface straightforwardly structures and causes a progression of incendiary reactions."
+  },
+  {
+    "id": "037d3483-a027-4566-a4b2-2a8eb1c734cd",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "40",
+    "question": "There is the formation of the fibrous capsule when the Biomaterial-Tissue implant is implanted in the body.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "Foreign body reaction (FBR) begins with an intense stage that can last as long as a few days. During this stage, leukocytes are actuated to the implantation site, and some development elements and cytokines are created. Monocytes are likewise enrolled, which separate into macrophages. After this period, which is the situation when the biomaterial is embedded in the body, an unending outside body response is activated. This is when lymphocytes and macrophages show up, notwithstanding the advancement of veins that are essential for wound mending and tissue recovery."
+  },
+  {
+    "id": "159eb6b4-f78f-4b76-a1af-c961aad2969a",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "41",
+    "question": "____________ is one of the most important aspects of biomaterial-tissue interactions.",
+    "options": {
+      "a": "Biocompatibility",
+      "b": "Bioavailability",
+      "c": "Bioequivalence",
+      "d": "Bioluminescence"
+    },
+    "answer": "a",
+    "explanation": "Biomaterials should be able to mimic the native cell microenvironment and to control the spatiotemporal secretion of growth factors and morphogens."
+  },
+  {
+    "id": "7d885eba-6aa9-4bf1-9cf9-cbecd6dfb8c3",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "42",
+    "question": "There are three major types of biomaterial-tissue interactions.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "There are two major types of biomaterial-tissue interactions, namely local and systemic interactions. The local interactions are the ones taking place at the implant site, e.g., inflammation, infection, tumorigenesis, etc. Systemic interactions affect the organism as a whole triggering immune responses. These two usually are the reasons for the device associated complications like biomaterial’s failure."
+  },
+  {
+    "id": "2c130e77-e639-4442-9d65-16c6b0a44610",
+    "section": "Biomaterial -Tissue Interactions",
+    "number": "43",
+    "question": "Scaffolds acquire stability and strength from the cells.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "The scaffolds provide mechanical integrity and stability, the adhesive substrate, and soluble factors for the cells in newly formed tissues."
+  },
+  {
+    "id": "43b6dae3-f7a5-4d3f-a96e-140e47e153c6",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "44",
+    "question": "____________ polymers are those which are human-made polymers.",
+    "options": {
+      "a": "Hydrogel",
+      "b": "Biodegradable",
+      "c": "Natural",
+      "d": "Synthetic"
+    },
+    "answer": "d",
+    "explanation": "Synthetic polymers are those which are human-made polymers. Polymers are those which consist of repeated structural units known as monomers. E.g., polythene has ethene as a monomeric unit."
+  },
+  {
+    "id": "8b5ebf5c-a83c-4cac-bbfc-f5f497b9f52b",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "45",
+    "question": "Synthetic polymers are sometimes referred as __________",
+    "options": {
+      "a": "plastics",
+      "b": "metals",
+      "c": "ceramic",
+      "d": "jelly"
+    },
+    "answer": "a",
+    "explanation": "Synthetic polymers are sometimes referred as “plastics”, of which the well-known ones are nylon and polyethylene. The polymers which are formed by linking monomer units, without the any change of material, are known to as addition polymers or also called as chain-growth polymers. All these are said to be synthetic polymers."
+  },
+  {
+    "id": "c81c0bc4-b75f-452f-8a95-936a1c81f17b",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "46",
+    "question": "Non-biodegradable- Synthetic polymers are made from _____________",
+    "options": {
+      "a": "petroleum",
+      "b": "lipids",
+      "c": "carbohydrates",
+      "d": "proteins"
+    },
+    "answer": "a",
+    "explanation": "Many polymers that are commonly found in households are non-degradable as they are petroleum based polymers. In order to control the environmental issues arising due to these polymers, bioplastics have been introduced as an alternative, these are biodegradable in nature."
+  },
+  {
+    "id": "4f1b9270-3142-4250-b648-71febc0f7922",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "47",
+    "question": "Synthetic materials owing to the bioactive properties have better interactions with the cells which allow them to enhance the cells’ performance in a biological system.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Natural materials owing to the bioactive properties have better interactions with the cells which allow them to enhance the performance of the cell in a biological system. Synthetic biomaterial guidance provided by biomaterials may facilitate the restoration of the structure and function of damaged or diseased tissues."
+  },
+  {
+    "id": "e7c3395f-70a3-4c06-96e4-b79756e3f177",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "48",
+    "question": "Which of the following is an example of Synthetic polymer?",
+    "options": {
+      "a": "Polylactic acid",
+      "b": "Dextran",
+      "c": "Chitin",
+      "d": "Amylose"
+    },
+    "answer": "a",
+    "explanation": "Polylactic acid is an example of synthetic polymers. Dextran, chitin and amylose are examples of natural polymers."
+  },
+  {
+    "id": "4f4d02de-ce99-4700-aa08-c6f1ae79eb0f",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "49",
+    "question": "Polyesters are a kind of Natural polymer.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Polyesters are the largest family of synthetic materials under study. The most commonly used polyesters are poly (lactic acid) (PLA), poly (α-hydroxy acids), poly (glycolic acid) (PGA) etc."
+  },
+  {
+    "id": "d4b5e8ce-219a-4dda-945e-2f3ed371d7dc",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "50",
+    "question": "Synthetic polymers can be manufactured with additional chemical functional groups to induce tissue regeneration.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "Synthetic polymers are attractive because they can be fabricated into various shapes. Synthetic polymers can be manufactured with additional chemical functional groups to induce tissue regeneration."
+  },
+  {
+    "id": "60d3b4f3-0b69-43d3-899e-a50f114ce797",
+    "section": "Synthetic Polymers for Biomaterial Processing",
+    "number": "51",
+    "question": "Polylactides are non-biodegradable in nature.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Generally, the degradation of polylactides involves random hydrolysis of the ester bonds. Poly (lactic acid) degrades to form lactic acid which is normally present in the body."
+  },
+  {
+    "id": "ec624792-dbcb-4721-962e-85b985859064",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "52",
+    "question": "Hydrogels consist of _________ functional groups.",
+    "options": {
+      "a": "hydrophilic",
+      "b": "hydrophobic",
+      "c": "polar",
+      "d": "positively charged"
+    },
+    "answer": "a",
+    "explanation": null
+  },
+  {
+    "id": "c4243a43-bb06-4602-b805-a584a4fd4061",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "53",
+    "question": "__________ is a network of polymer chains that are hydrophilic.",
+    "options": {
+      "a": "Hydrogel",
+      "b": "Alginate",
+      "c": "Starch",
+      "d": "Amylose"
+    },
+    "answer": "a",
+    "explanation": "A hydrogel is a network of polymer chains that are hydrophilic, sometimes found as a colloidal gel in which water is the dispersion medium. A 3-D solid results from the hydrophilic polymer chains being held together by cross-links."
+  },
+  {
+    "id": "ed069ea0-ca1f-4280-ae62-6efb8b460843",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "54",
+    "question": "Hydrogel forming natural polymers includes both proteins and _____________",
+    "options": {
+      "a": "Polysaccharides",
+      "b": "Lipids",
+      "c": "DNA",
+      "d": "Nucleic acids"
+    },
+    "answer": "a",
+    "explanation": "Hydrogel forming natural polymers includes both proteins such as collagen and gelatin and polysaccharides such as agarose, alginate, and starch."
+  },
+  {
+    "id": "6a8dab17-ca88-417f-83d3-b8995f8572d2",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "55",
+    "question": "Hydrogels cannot be shrunk or expanded.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Hydrogels can be designed with controllable responses as to shrink or expand with changes in external environmental conditions like physical and chemical stimuli."
+  },
+  {
+    "id": "32d159ce-a458-4028-a37e-f8093b61dd22",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "56",
+    "question": "____________ hydrogels are referred to polymer network derived from a single species of monomer.",
+    "options": {
+      "a": "Homoplymeric",
+      "b": "Heteropolymeric",
+      "c": "Natural",
+      "d": "Synthetic"
+    },
+    "answer": "a",
+    "explanation": "The polymer networks obtained from a single monomer (basic structural unit of a polymeric network) species are referred to as Homopolymeric hydrogels."
+  },
+  {
+    "id": "7ae8a601-bacc-46cb-a6c3-89165ee70678",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "57",
+    "question": "Hydrogels can be classified into two groups based on their polymeric composition.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Hydrogels can be classified into three groups based on their polymeric composition as homopolymeric, heteropolymeric and multipolymeric interpenetrating polymeric hydrogels."
+  },
+  {
+    "id": "9398df15-eb12-4509-8bbf-732f463bb52c",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "58",
+    "question": "Hydrogels can be classified into two groups based on their configuration.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "Hydrogels can be classified into three groups based on their polymeric composition. This kind of classification depends on the physical structure and chemical composition into amorphous, semi-crystalline and crystalline hydrogels."
+  },
+  {
+    "id": "1df82e95-30ab-4628-bb24-dd2c8ac1368c",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "59",
+    "question": "Which of the following is a group under the classification of hydrogels based on the network’s electrical charge?",
+    "options": {
+      "a": "Nonionic",
+      "b": "Synthetic",
+      "c": "Natural",
+      "d": "Amorphous"
+    },
+    "answer": "a",
+    "explanation": "Nonionic hydrogels are a category under the classification of hydrogels based on the network’s electrical charge. Natural and synthetic hydrogels are categories under the classification of hydrogels based on their origin or source. Amorphous hydrogels are a category under the classification of hydrogels based on the polymeric structure."
+  },
+  {
+    "id": "4af29b0b-4aab-4ed3-9b7c-ad88b6748dfb",
+    "section": "Hydrogels for Biomaterial Processing",
+    "number": "60",
+    "question": "An ideal hydrogel material must have a high absorption capacity in a sugar saturated solution.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "b",
+    "explanation": "An ideal hydrogel material must have the highest absorption capacity (maximum equilibrium swelling) in a saline environment."
+  },
+  {
+    "id": "2462f881-2612-4011-8504-60255217ac18",
+    "section": "Bioceramics for Biomaterial Processing",
+    "number": "61",
+    "question": "____________ was the earliest used bio-ceramic.",
+    "options": {
+      "a": "Porcelain",
+      "b": "Gypsum",
+      "c": "Gelatin",
+      "d": "Cement"
+    },
+    "answer": "a",
+    "explanation": "The clinical use of bio-ceramics in dentistry started in the late 18th century with the use of porcelain for crowns. Since the late 19thcentury Plaster of Paris and gypsum have been used as biomaterials in orthopedics."
+  },
+  {
+    "id": "1cb80c4e-3f11-459d-ba2a-026effe63d09",
+    "section": "Bioceramics for Biomaterial Processing",
+    "number": "62",
+    "question": "__________ family of ceramics is widely used for bone defects.",
+    "options": {
+      "a": "Calcium phosphate",
+      "b": "Calcium oxide",
+      "c": "Calcium carbonate",
+      "d": "Calcium bicarbonate"
+    },
+    "answer": "a",
+    "explanation": "The calcium phosphate family of ceramics is widely used for bone defects and zirconia, alumina and their composites are used for hip-joints."
+  },
+  {
+    "id": "21940f74-8f29-4eb7-bc9b-e6086444267d",
+    "section": "Bioceramics for Biomaterial Processing",
+    "number": "63",
+    "question": "_____________ is a large class of inorganic nonmetallic materials.",
+    "options": {
+      "a": "Bioceramics",
+      "b": "Polymers",
+      "c": "Plastics",
+      "d": "Antibodies"
+    },
+    "answer": "a",
+    "explanation": "Bioceramics constitute an important group of biomaterials, their biocompatibility ranges from that of ceramic oxides (inert in the body) to that of resorbable materials (replaced by the body after they have assisted in repair)."
+  },
+  {
+    "id": "c4ca6b05-53ce-4083-b469-f358e9705d54",
+    "section": "Bioceramics for Biomaterial Processing",
+    "number": "64",
+    "question": "In general, bioceramics are classified into two families.",
+    "options": {
+      "a": "TRUE",
+      "b": "FALSE"
+    },
+    "answer": "a",
+    "explanation": "In general, we classify bioceramics into two families: bioinert and bioactive ceramics. Their classification depends on whether the ceramic can directly form an integration at the interface between the bone and the ceramic."
+  },
+  {
+    "id": "8beba2a2-43b6-4d7e-b59d-115b141934a1",
+    "section": "Bioceramics for Biomaterial Processing",
+    "number": "65",
+    "question": "__________ and glass-ceramic contain rich CaO and P2O5 contents.",
+    "options": {
+      "a": "Bioactive glass",
+      "b": "Hydrogel",
+      "c": "Metal",
+      "d": "Mesh"
+    },
+    "answer": "a",
+    "explanation": "Bioactive glass and glass-ceramic contain rich CaO and P2O5 contents. One representative is the bioglass 45S5 developed by Larry Hench in 1968."
+  },
+  {
+    "id": "bd285c1e-c3db-4b8d-8132-37b5b391437f",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "66",
+    "question": "What is the main component of the tissues in our body?",
+    "options": {
+      "a": "Cells",
+      "b": "Organs",
+      "c": "Muscles",
+      "d": "Cartilage"
+    },
+    "answer": "a",
+    "explanation": "Tissues are made up of various specialized cells that are grouped together according to their function. Whereas organs consist of tissues as one of their main components along with stroma, muscles are a kind of tissue which consist of specialized cells which aid in our movement and cartilage is a type of flexible connective tissue which is found in certain regions of the respiratory tract as well as in the articulating surfaces of joints."
+  },
+  {
+    "id": "0f6eae11-8d11-46da-88dd-7a050a334665",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "67",
+    "question": "What was a loose belief on which the miasma theory was based on?",
+    "options": {
+      "a": "The diseases like cholera and chlamydia were caused by pollution",
+      "b": "Microorganisms known as pathogens can lead to disease",
+      "c": "Pneumonia is caused by Streptococcus pneumoniae",
+      "d": "Vericella zoster is the virus that causes Chickenpox"
+    },
+    "answer": "a",
+    "explanation": "The miasma theory is an obsolete medical theory which believed that few of the diseases like cholera were caused by pollution, a noxious form of “bad air”. The theory suggested that the cause of epidemics arose from miasma, emanating from rotting organic matter."
+  },
+  {
+    "id": "ad94569d-c9a0-49c9-bd04-082a284fd1b4",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "68",
+    "question": "Tissue transplants usually give rise to a ______ response.",
+    "options": {
+      "a": "cold",
+      "b": "immune",
+      "c": "hot",
+      "d": "no"
+    },
+    "answer": "b",
+    "explanation": "The presence of foreign tissue after the transplant triggers something that is called an immune response, in which there are immune attacks (chronic rejection) on the donor’s tissue causing its degradation."
+  },
+  {
+    "id": "80319c0c-0aec-4bdd-83fd-6ec7aa614b9e",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "69",
+    "question": "Tissue Engineering is a branch of Biotechnology which relies on the knowledge available in the other branches of Biotechnology like biochemistry, cell biology, immunology, and genetics.",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "explanation": "Tissue Engineering is a field that fuels itself from the knowledge borrowed from other well-established fields like immunology, genetics, cell biology and biochemistry for the treatment of human disease."
+  },
+  {
+    "id": "0e7ec371-b402-4566-8134-848b2b353823",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "70",
+    "question": "_________ approach of tissue engineering facilitates the self-repair of tissues.",
+    "options": {
+      "a": "Substitutive",
+      "b": "Histoconductive",
+      "c": "Histioconductive",
+      "d": "Analytical"
+    },
+    "answer": "b",
+    "explanation": "Currently approaches to tissue engineering can be stratified as substitutive, histoconductive and histioconductive. The histoconductive approach facilitates self-repair which may involve gene therapy."
+  },
+  {
+    "id": "77d86050-a6e2-4193-a688-71090bf20880",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "71",
+    "question": "Allo-transplantation is a technique of transplantation of cells in which the cells are derived from a genetically identical donor.",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "explanation": "Allo-transplantation is a technique of transplantation of cells in which the cells are derived from a genetically non-identical donor, within the same species. Xenotransplantation is a technique of transplantation of cells in which the cells are derived from a genetically non-identical donor, across different species. Auto-transplantation is a technique of transplantation of cells in which the cells are derived from one part of the body to another in the same person."
+  },
+  {
+    "id": "4511cb6f-361e-4508-86b7-6ca3f81dc2a8",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "72",
+    "question": "____________ is a very important component in tissue engineering, which incorporates the three important elements, cells, biomaterials, and growth factors.",
+    "options": {
+      "a": "Scaffolding Technique",
+      "b": "Seeding",
+      "c": "Cell culture technique",
+      "d": "Cell isolation technique"
+    },
+    "answer": "b",
+    "explanation": "Scaffolding is a very important component in tissue engineering, which incorporates the three important elements, cells, biomaterials and growth factors. Whereas seeding is the step following scaffolding in which the cells are cultured on a framework of the tissue. The cells to be seeded on the scaffold are isolated and cultured according to the type and need."
+  },
+  {
+    "id": "d17ff082-cd53-4017-bdf2-af207de1d1db",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "73",
+    "question": "___________ are the favorite cell type in tissue engineering as they don’t evoke an immune response.",
+    "options": {
+      "a": "Autologous cells",
+      "b": "Differentiated stem cells",
+      "c": "Heterogeneous cells",
+      "d": "Fibroblasts"
+    },
+    "answer": "a",
+    "explanation": "Autologous cells are considered the favorite kind of cells in tissue engineering as they do not evoke an immune response when administered. They also eliminate the need for immunosuppressants. Heterologous cells are derived from a genetically non-identical donor might cause a possible immune response. Differentiated stem cells and fibroblast cells could be either autologous or heterologous based on the source they are derived from."
+  },
+  {
+    "id": "dddaf73a-7df1-4eb6-aea6-516c4c26bb71",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "74",
+    "question": "Which organ cannot be transplanted at present?",
+    "options": {
+      "a": "Brain",
+      "b": "Heart",
+      "c": "Lungs",
+      "d": "Pancreas"
+    },
+    "answer": "a",
+    "explanation": "Brain is an example of the organs that cannot be transplanted in today’s date, but heart, lungs, and pancreas can be transplanted provided a donor is available, with appropriate compatibility like the same blood group, similar age, etc."
+  },
+  {
+    "id": "a66d3707-7a3c-4ba9-aa22-8742315865ab",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "75",
+    "question": "If a person is going to receive stem cell transplantation, they need to go through chemotherapy and other radiation procedures as a part of the preparation for the transplantation.",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "explanation": "Yes, if a person is going to receive stem cell transplantation, they need to go through chemotherapy and other radiation procedures as a part of the preparation for the transplantation. This is done to destroy the defective stem cells in the part of the body from where the Adult stem cells are going to be derived."
+  },
+  {
+    "id": "c7da2906-3cda-4645-9b38-e2f6d0f08c2e",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "76",
+    "question": "A bone marrow donor for bone marrow transplant is compulsorily supposed to be a relative.",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "explanation": "No, the bone marrow donor for bone marrow transplant procedure doesn’t necessarily have to be a relative. But, the siblings are bound to have more compatibility than the parents and are a better option to be considered if no other donor is available."
+  },
+  {
+    "id": "f6f47865-dbcc-4a00-86f8-12d2484c26db",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "77",
+    "question": "__________ is considered as a miraculous solution to Organ shortages.",
+    "options": {
+      "a": "Tissue Engineering",
+      "b": "Xeno-transplantation",
+      "c": "Iso-transplantation",
+      "d": "Allo-transplantation"
+    },
+    "answer": "a",
+    "explanation": "Tissue Engineering is considered as a miraculous solution to Organ shortage, as we no more have to wait for a compatible donor to die. On the other hand Xeno-transplantation, Iso-transplantation and Allo-transplantation involve donors from whom the particular organ concerned can only be taken when they die."
+  },
+  {
+    "id": "ad567cca-fe0a-4baf-9be6-e657f2a0dcc2",
+    "section": "Fundamentals of Tissue Engineering",
+    "number": "78",
+    "question": "Which of the following is a major focus of a technique of tissue engineering called autologous chondrocyte transplantation (ACT)?",
+    "options": {
+      "a": "Cartilage",
+      "b": "Bone",
+      "c": "Skin",
+      "d": "Stem Cells"
+    },
+    "answer": "a",
+    "explanation": "Cartilage is the main focus of the technique named autologous chondrocyte transplantation (ACT). In the ACT, chondrocytes are isolated from the biopsy of healthy cartilage and cultured in vitro for a few weeks to reach a sufficient number of cells."
+  }
+]

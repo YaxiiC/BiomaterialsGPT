@@ -1,0 +1,8 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+PyMuPDF
+python-docx
+openai
+ollama

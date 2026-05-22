@@ -4,13 +4,7 @@ import csv
 import uuid
 import subprocess
 
-def fetch_context(query):
-    results = subprocess.check_output(
-        ["python", "/home/yaxi/biomaterialsGPT/search_faiss.py", query],
-        text=True
-    )
-    chunks = [line for line in results.strip().split("\n") if line]
-    return "\n\n".join(chunks)
+from paths import OUTPUTS_DIR, SCQ_BANK_JSON, fetch_rag_context
 
 def ask_llm(question_with_opts, context):
     prompt = f"""You are a biomaterials assistant.
@@ -61,10 +55,11 @@ def parse_response(resp_text):
     return option, explanation
 
 def main():
-    with open("scq_bank.json", "r", encoding="utf-8") as f:
+    with open(SCQ_BANK_JSON, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
-    with open("scq_with_llm_withoutRAG.csv", "w", newline="", encoding="utf-8") as csvfile:
+    out_path = OUTPUTS_DIR / "scq_with_llm_withoutRAG.csv"
+    with open(out_path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=[
             "id", "section", "number", "question",
             "correct_answer", "predicted_option", "explanation"
@@ -78,7 +73,7 @@ def main():
             q_block = f"{q_text}\n{opts_lines}"
 
             # 1) RAG context
-            ctx = fetch_context(q_text)
+            ctx = fetch_rag_context(q_text)
 
             # 2) Query the model
             resp = ask_llm(q_block, ctx)
@@ -103,7 +98,7 @@ def main():
 
             print(f"Q{item['number']} → predicted {pred_opt}, actual {item.get('answer')}")
 
-    print("Saved results to scq_with_llm_withoutRAG.csv")
+    print(f"Saved results to {out_path}")
 
 if __name__ == "__main__":
     main()
