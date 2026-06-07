@@ -1034,5 +1034,1711 @@
     },
     "answer": "a",
     "explanation": "Cartilage is the main focus of the technique named autologous chondrocyte transplantation (ACT). In the ACT, chondrocytes are isolated from the biopsy of healthy cartilage and cultured in vitro for a few weeks to reach a sufficient number of cells."
-  }
-]
+  },
+  {
+  "id": "3f6a9e31-4e62-4f3b-a94c-0e6d06b7b101",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "79",
+  "question": "Which feature is most directly required for a scaffold to support tissue regeneration rather than simply occupy space?",
+  "options": {
+    "a": "High density and complete impermeability",
+    "b": "A structure that supports cell attachment, migration, and extracellular matrix formation",
+    "c": "Maximum stiffness regardless of target tissue",
+    "d": "A surface that prevents all protein adsorption"
+  },
+  "answer": "b",
+  "explanation": "A tissue engineering scaffold should provide a temporary structure that supports cell attachment, migration, proliferation, and extracellular matrix deposition. Complete impermeability or excessive stiffness may prevent tissue integration."
+},
+{
+  "id": "912bd3d4-8c2d-4f94-9c31-bd635ff5c604",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "80",
+  "question": "Why is scaffold porosity important in tissue engineering applications?",
+  "options": {
+    "a": "It prevents cells from entering the scaffold",
+    "b": "It allows nutrient transport, waste removal, and cell infiltration",
+    "c": "It makes all scaffolds mechanically stronger",
+    "d": "It eliminates the need for vascularisation"
+  },
+  "answer": "b",
+  "explanation": "Porosity is important because pores allow cells to migrate into the scaffold and permit diffusion of nutrients, oxygen, and waste products. However, high porosity can reduce mechanical strength, so a balance is required."
+},
+{
+  "id": "e786bc95-0456-4d37-9df8-74085e90a662",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "81",
+  "question": "Which statement best explains why scaffold degradation rate must be controlled?",
+  "options": {
+    "a": "The scaffold should always degrade before cells attach",
+    "b": "The scaffold should remain permanently without any tissue replacement",
+    "c": "The scaffold should degrade at a rate that matches new tissue formation",
+    "d": "The scaffold should degrade only when exposed to ultraviolet light"
+  },
+  "answer": "c",
+  "explanation": "An appropriate degradation rate allows the scaffold to provide support during early regeneration and gradually transfer load or space to newly formed tissue. Too rapid or too slow degradation can impair regeneration."
+},
+{
+  "id": "cd3f716c-6e7f-4e74-a944-2aa22465e308",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "82",
+  "question": "Which material property is especially important when designing a scaffold for load-bearing bone repair?",
+  "options": {
+    "a": "Mechanical strength and stiffness suitable for the bone environment",
+    "b": "Complete optical transparency",
+    "c": "Ability to dissolve instantly in water",
+    "d": "Absence of any pore structure"
+  },
+  "answer": "a",
+  "explanation": "For load-bearing bone repair, the scaffold must have sufficient mechanical properties to tolerate the local mechanical environment while supporting bone tissue formation. Optical transparency is not the main design requirement."
+},
+{
+  "id": "0af64c8e-cc33-4b62-a4c1-9ee095f7c618",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "83",
+  "question": "Which statement best describes the role of growth factors in tissue engineering scaffolds?",
+  "options": {
+    "a": "They mainly act as structural fillers with no biological function",
+    "b": "They can provide biochemical signals that influence cell behaviour and tissue formation",
+    "c": "They are used only to increase scaffold density",
+    "d": "They prevent all immune responses after implantation"
+  },
+  "answer": "b",
+  "explanation": "Growth factors can regulate cell proliferation, migration, differentiation, and matrix production. They do not simply act as structural fillers and they do not guarantee absence of immune response."
+},
+{
+  "id": "d9d6f78a-f470-4d5d-bd4f-2e02ccbf8d23",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "84",
+  "question": "Which option best explains a key limitation of using natural polymers as scaffolds?",
+  "options": {
+    "a": "They never interact with cells",
+    "b": "They always have identical mechanical properties between batches",
+    "c": "They may have weaker mechanical properties and batch-to-batch variability",
+    "d": "They cannot be degraded by biological systems"
+  },
+  "answer": "c",
+  "explanation": "Natural polymers can provide biological cues for cells, but they may have limited mechanical strength, variable composition, and possible immunogenicity depending on source and processing."
+},
+{
+  "id": "11fa4b18-69dc-40c2-8f3c-0ac1d8bc4f6d",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "85",
+  "question": "Which option best explains a key advantage of synthetic polymers in scaffold design?",
+  "options": {
+    "a": "Their chemistry, degradation rate, and mechanical properties can often be controlled during fabrication",
+    "b": "They always contain natural cell-binding motifs",
+    "c": "They never require sterilisation",
+    "d": "They are always more bioactive than natural extracellular matrix proteins"
+  },
+  "answer": "a",
+  "explanation": "Synthetic polymers are useful because their structure, degradation behaviour, and mechanical properties can often be tuned. However, they may lack natural biological recognition sites unless modified."
+},
+{
+  "id": "55d8c59a-9952-4ec7-8cf5-f2c49de44f40",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "86",
+  "question": "Why is matching scaffold stiffness to the target tissue important?",
+  "options": {
+    "a": "Cell behaviour can be influenced by the mechanical properties of the surrounding matrix",
+    "b": "Cells only respond to colour and transparency",
+    "c": "Soft tissues always require the stiffest possible scaffold",
+    "d": "Stiffness has no effect on tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "Cells can sense mechanical cues from their environment, and scaffold stiffness can influence adhesion, migration, proliferation, and differentiation. Therefore, stiffness should be considered in relation to the target tissue."
+},
+{
+  "id": "90c47d2e-6644-4b59-9127-b6d6b9792e85",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "87",
+  "question": "Which statement best distinguishes a scaffold from a permanent inert implant?",
+  "options": {
+    "a": "A scaffold is usually designed to support tissue formation and may degrade over time",
+    "b": "A scaffold is always metallic and non-degradable",
+    "c": "A scaffold must prevent all cell attachment",
+    "d": "A scaffold is used only for electrical stimulation"
+  },
+  "answer": "a",
+  "explanation": "A scaffold in tissue engineering is commonly designed to guide tissue regeneration and may be biodegradable. A permanent inert implant is usually intended to maintain long-term structural function without being replaced by tissue."
+},
+{
+  "id": "b0d5be9d-5f6a-4112-8b88-28dcd7c9fd08",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "88",
+  "question": "Which factor would most likely reduce successful cell infiltration into a scaffold?",
+  "options": {
+    "a": "Interconnected pores of suitable size",
+    "b": "A completely closed pore structure",
+    "c": "A surface that supports cell adhesion",
+    "d": "Controlled degradation behaviour"
+  },
+  "answer": "b",
+  "explanation": "A closed pore structure can prevent cells from migrating through the scaffold and can limit nutrient and oxygen transport. Interconnected pores are generally more favourable for tissue ingrowth."
+},
+{
+  "id": "312c3185-fb24-49d1-8fa0-dbe1a60176d1",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "89",
+  "question": "What is usually one of the earliest events after a biomaterial contacts biological fluid?",
+  "options": {
+    "a": "Immediate formation of mature bone",
+    "b": "Protein adsorption onto the material surface",
+    "c": "Complete disappearance of immune cells",
+    "d": "Instant degradation of the implant"
+  },
+  "answer": "b",
+  "explanation": "Protein adsorption often occurs rapidly after a biomaterial contacts biological fluids. The adsorbed protein layer can influence later cell adhesion, inflammation, and tissue integration."
+},
+{
+  "id": "0a012d70-9385-43bb-b8d4-8180557769c7",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "90",
+  "question": "Why is surface chemistry important for biomaterial performance?",
+  "options": {
+    "a": "It can influence protein adsorption and subsequent cell responses",
+    "b": "It only affects the colour of the material",
+    "c": "It has no effect once the material is implanted",
+    "d": "It prevents all forms of degradation"
+  },
+  "answer": "a",
+  "explanation": "Surface chemistry affects interactions with proteins, cells, and biological fluids. These early interactions can strongly influence biocompatibility and integration."
+},
+{
+  "id": "4e9eaf44-3f24-4c81-a397-ffbdfce8d270",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "91",
+  "question": "Which statement best explains the purpose of surface modification of implants?",
+  "options": {
+    "a": "To change the surface response without necessarily changing the bulk material",
+    "b": "To remove the need for any mechanical testing",
+    "c": "To make all implants biodegradable",
+    "d": "To ensure the implant cannot interact with tissue"
+  },
+  "answer": "a",
+  "explanation": "Surface modification is often used to improve biological interaction, corrosion resistance, wear behaviour, or antibacterial performance while preserving useful bulk mechanical properties."
+},
+{
+  "id": "9af4f4d4-2d68-40ae-bc6e-459ad81fc63e",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "92",
+  "question": "Which surface property is most directly related to contact guidance of cells?",
+  "options": {
+    "a": "Surface topography",
+    "b": "Atomic mass of the implant",
+    "c": "Packaging colour",
+    "d": "Storage temperature before manufacture only"
+  },
+  "answer": "a",
+  "explanation": "Surface topography, including grooves, fibres, and roughness, can guide cell orientation and migration. This is often described as contact guidance."
+},
+{
+  "id": "672fa2a2-7ce9-4e49-8b5a-4e36a88b5efa",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "93",
+  "question": "Which option best describes the foreign body response to an implanted biomaterial?",
+  "options": {
+    "a": "A biological response involving inflammation, macrophage activity, and possible fibrous encapsulation",
+    "b": "A purely electrical reaction unrelated to immune cells",
+    "c": "A process that occurs only in non-living materials outside the body",
+    "d": "A response that always produces perfect tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "The foreign body response is a host reaction to implanted materials and can involve inflammation, macrophages, foreign body giant cells, and fibrous capsule formation."
+},
+{
+  "id": "de7eb143-5728-4c95-b7a4-6cb3daffb7a4",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "94",
+  "question": "Which statement best explains why fibrous encapsulation can be a problem for some implants?",
+  "options": {
+    "a": "It may isolate the implant from surrounding functional tissue",
+    "b": "It always improves electrical signal transmission",
+    "c": "It guarantees full regeneration of the damaged tissue",
+    "d": "It prevents all inflammatory reactions from occurring"
+  },
+  "answer": "a",
+  "explanation": "Fibrous encapsulation can physically separate an implant from surrounding tissue, which may reduce integration or impair function, especially for devices that require close tissue interaction."
+},
+{
+  "id": "92755e58-65ee-4031-87ee-9d8878b38a8d",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "95",
+  "question": "Which surface strategy is most relevant for improving bone bonding on a metallic implant?",
+  "options": {
+    "a": "Applying a bioactive calcium phosphate or hydroxyapatite coating",
+    "b": "Making the surface completely toxic to all cells",
+    "c": "Removing all surface roughness and bioactivity",
+    "d": "Coating the implant with a non-sterile organic contaminant"
+  },
+  "answer": "a",
+  "explanation": "Calcium phosphate or hydroxyapatite coatings can improve the bone-bonding ability of metallic implants by providing a more bone-like and bioactive surface."
+},
+{
+  "id": "ed7f1f0c-f63a-4edb-9a2c-fd38724d3d46",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "96",
+  "question": "Why can excessive wear particle release from an implant be harmful?",
+  "options": {
+    "a": "Wear particles can trigger inflammatory responses and contribute to implant loosening",
+    "b": "Wear particles always strengthen the surrounding bone",
+    "c": "Wear particles prevent macrophage activation",
+    "d": "Wear particles are required for all tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "Wear particles can be recognised by immune cells and may induce inflammation, osteolysis, and implant loosening depending on particle type, size, dose, and biological context."
+},
+{
+  "id": "5fb04794-a2f8-4e64-8910-63c59d4c0339",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "97",
+  "question": "Which condition-sensitive statement about biomaterial biocompatibility is most accurate?",
+  "options": {
+    "a": "Biocompatibility depends on the material, application site, dose, degradation products, and host response",
+    "b": "A material is biocompatible in every situation once it passes one test",
+    "c": "Biocompatibility is determined only by the material colour",
+    "d": "Biocompatibility means the material cannot interact with cells"
+  },
+  "answer": "a",
+  "explanation": "Biocompatibility is context-dependent. A material that works well in one application may not be suitable in another because tissue site, exposure duration, degradation products, and host factors matter."
+},
+{
+  "id": "260c4f8a-4eb0-4e57-939c-0b2532dc20e3",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "98",
+  "question": "Which type of evidence would best support a claim that a surface modification improves cell adhesion?",
+  "options": {
+    "a": "Quantitative cell adhesion or spreading data compared with an unmodified control surface",
+    "b": "A statement that the surface looks smooth to the eye",
+    "c": "The colour of the laboratory container",
+    "d": "The name of the manufacturer only"
+  },
+  "answer": "a",
+  "explanation": "A claim about improved cell adhesion should be supported by comparative biological data, such as adhesion counts, spreading area, staining, or related cell attachment assays against an appropriate control."
+},
+{
+  "id": "49f7a50d-20be-49a0-8ea5-7d63e3f15808",
+  "section": "Biofabrication and 3D Printing",
+  "number": "99",
+  "question": "Which statement best describes the purpose of biofabrication in tissue engineering?",
+  "options": {
+    "a": "To create biologically relevant structures using cells, biomaterials, or bioactive molecules",
+    "b": "To make only non-biological metal tools",
+    "c": "To prevent any spatial control over material placement",
+    "d": "To eliminate the need for cell culture in all cases"
+  },
+  "answer": "a",
+  "explanation": "Biofabrication aims to produce organised biological or bioactive structures, often using cells, biomaterials, and biochemical cues to support tissue engineering and regenerative medicine."
+{
+  "id": "b00cce75-b9f6-49b7-8967-b5059433decd",
+  "section": "Biofabrication and 3D Printing",
+  "number": "100",
+  "question": "What is a major advantage of 3D printing for scaffold fabrication?",
+  "options": {
+    "a": "It removes the need to optimise scaffold material properties",
+    "b": "It can provide controlled scaffold architecture and patient-specific geometries",
+    "c": "It mainly improves scaffold fabrication by increasing polymer degradation rate",
+    "d": "It makes scaffold performance independent of pore structure and mechanical design"
+  },
+  "answer": "b",
+  "explanation": "3D printing can control scaffold shape, pore architecture and spatial organisation. It can also support patient-specific designs when based on imaging data, but material properties, degradation, vascularisation and mechanics still need evaluation."
+},
+{
+  "id": "f8b5ea1a-2982-4782-9cd8-13f3f1c35e3a",
+  "section": "Biofabrication and 3D Printing",
+  "number": "101",
+  "question": "Which limitation is most relevant when printing cell-laden bioinks?",
+  "options": {
+    "a": "Cell-laden constructs require higher ceramic mineral content than acellular scaffolds",
+    "b": "Cell-laden printing is mainly limited by the colour stability of the hydrogel",
+    "c": "Bioink viscosity has little effect on printing stress or construct shape",
+    "d": "Maintaining cell viability while achieving adequate print fidelity"
+  },
+  "answer": "d",
+  "explanation": "Cell-laden printing requires a balance between printability, mechanical stability and cell viability. Harsh printing conditions, high shear stress or unsuitable bioink properties can reduce cell survival."
+},
+{
+  "id": "89b67e9a-6aa8-4873-931e-84e33b3f5d86",
+  "section": "Biofabrication and 3D Printing",
+  "number": "102",
+  "question": "Which statement best describes a bioink?",
+  "options": {
+    "a": "A printable formulation that may contain cells, biomaterials and bioactive components",
+    "b": "A prefabricated ceramic implant used mainly for articulating joint surfaces",
+    "c": "A culture medium used for cell expansion without structural printing function",
+    "d": "A mineralised paste designed specifically to avoid cell-material interaction"
+  },
+  "answer": "a",
+  "explanation": "A bioink is a printable formulation used in bioprinting and may contain living cells, hydrogels, extracellular matrix components or other bioactive molecules."
+},
+{
+  "id": "ec3e1d40-99ab-452e-998e-a6f1be6ea4c9",
+  "section": "Biofabrication and 3D Printing",
+  "number": "103",
+  "question": "Why are hydrogels commonly used as bioinks?",
+  "options": {
+    "a": "Their mineral composition usually provides high load-bearing strength after printing",
+    "b": "Their low water content helps prevent nutrient diffusion through printed constructs",
+    "c": "They can provide a hydrated environment resembling aspects of extracellular matrix",
+    "d": "Their main role is to increase thermal damage during cell-laden printing"
+  },
+  "answer": "c",
+  "explanation": "Hydrogels are often used as bioinks because they are water-rich and can provide a cell-compatible hydrated environment. However, many hydrogels require optimisation to improve printability and mechanical stability."
+},
+{
+  "id": "d7e4d0fd-b9be-43d4-a29d-723f6c6ee0aa",
+  "section": "Biofabrication and 3D Printing",
+  "number": "104",
+  "question": "Which comparison between extrusion bioprinting and inkjet bioprinting is most accurate?",
+  "options": {
+    "a": "Inkjet printing is generally preferred for highly viscous continuous filaments",
+    "b": "Extrusion printing can handle more viscous bioinks, while inkjet printing usually requires lower-viscosity droplets",
+    "c": "Extrusion printing is mainly defined by droplet ejection rather than continuous material deposition",
+    "d": "Inkjet and extrusion printing have the same viscosity requirements for all bioink formulations"
+  },
+  "answer": "b",
+  "explanation": "Extrusion bioprinting can often process more viscous materials, while inkjet bioprinting typically ejects droplets and is more limited by viscosity, droplet formation and nozzle conditions."
+},
+{
+  "id": "2f3d2afd-9f05-45ff-9ee9-cf8fe99e3abc",
+  "section": "Biofabrication and 3D Printing",
+  "number": "105",
+  "question": "Which factor is most likely to reduce cell viability during nozzle-based bioprinting?",
+  "options": {
+    "a": "Excessive shear stress during extrusion",
+    "b": "Using a hydrogel formulation with appropriate cell-compatible conditions",
+    "c": "Maintaining sterile handling during the printing process",
+    "d": "Controlling printing temperature for temperature-sensitive bioinks"
+  },
+  "answer": "a",
+  "explanation": "High shear stress during nozzle-based printing can damage cells. Printing pressure, nozzle diameter, bioink viscosity and printing speed must be controlled to balance cell survival and shape fidelity."
+},
+{
+  "id": "153c8413-bf36-4f78-baae-2301ad45fd37",
+  "section": "Biofabrication and 3D Printing",
+  "number": "106",
+  "question": "Which statement best explains why vascularisation is a major challenge in thick engineered tissues?",
+  "options": {
+    "a": "Printed hydrogels generally contain mature blood vessels immediately after crosslinking",
+    "b": "Vascularisation is mainly relevant to non-biological metal devices rather than living tissues",
+    "c": "Cells in thick constructs are usually unaffected by oxygen and nutrient gradients",
+    "d": "Cells far from nutrient supply may suffer from limited oxygen and nutrient diffusion"
+  },
+  "answer": "d",
+  "explanation": "Thick tissues require adequate transport of oxygen and nutrients. Without vascularisation or perfusion, cells far from the surface may become hypoxic or die."
+},
+{
+  "id": "2b2fc8d3-7a50-4c4b-b7e4-4b1968bdcf7c",
+  "section": "Biofabrication and 3D Printing",
+  "number": "107",
+  "question": "Which statement is most accurate about printing resolution in biofabrication?",
+  "options": {
+    "a": "Higher resolution mainly improves tissue function by eliminating material-dependent effects",
+    "b": "Lower resolution is generally preferred because scaffold architecture has limited biological relevance",
+    "c": "Higher resolution can improve structural detail but may involve trade-offs with speed, material choice or cell viability",
+    "d": "Resolution is primarily a visual property and does not affect pore geometry or construct design"
+  },
+  "answer": "c",
+  "explanation": "Printing resolution affects structural detail, but higher resolution may require smaller nozzles, harsher conditions, slower printing or more restrictive material properties."
+},
+{
+  "id": "b341fd1b-9ef2-463a-bb18-60fda5152cb1",
+  "section": "Biofabrication and 3D Printing",
+  "number": "108",
+  "question": "Which type of question best tests whether a scientific answer avoids overclaiming in biofabrication?",
+  "options": {
+    "a": "A question asking for the name of one commonly used printing method",
+    "b": "A question asking whether current printed constructs can fully replace native organs without limitations",
+    "c": "A question asking whether a printer deposits material in a controlled pattern",
+    "d": "A question asking for the definition of scaffold porosity"
+  },
+  "answer": "b",
+  "explanation": "A good scientific evaluation question can test whether an answer recognises limitations and avoids unsupported claims. Biofabrication has important promise, but fully replacing native organs remains limited by challenges such as vascularisation, maturation, scale and function."
+},
+{
+  "id": "9dfb55e5-182a-4fc7-b7ab-715afe342d20",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "109",
+  "question": "Which property best explains why hydrogels are often used to mimic aspects of soft extracellular matrix?",
+  "options": {
+    "a": "They are water-rich polymer networks that can provide a hydrated microenvironment",
+    "b": "They are dense calcium phosphate structures with high compressive strength",
+    "c": "They are mainly used because their low swelling improves mineral hardness",
+    "d": "They function primarily by preventing protein and cell interactions"
+  },
+  "answer": "a",
+  "explanation": "Hydrogels are hydrated polymer networks. Their high water content and tunable chemistry make them useful for mimicking some features of soft extracellular matrix environments."
+},
+{
+  "id": "cf6b71c8-4b90-4eb7-9490-e7ef1a3e9d42",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "110",
+  "question": "Which limitation is commonly associated with many unmodified hydrogels in tissue engineering?",
+  "options": {
+    "a": "Their high water content usually provides sufficient load-bearing strength without reinforcement",
+    "b": "Their hydrated structure usually prevents diffusion of nutrients and soluble factors",
+    "c": "Their polymer network makes them unsuitable for cell encapsulation applications",
+    "d": "They usually have limited mechanical strength compared with load-bearing tissues"
+  },
+  "answer": "d",
+  "explanation": "Many hydrogels are biologically useful because they are hydrated and cell-compatible, but their mechanical strength may be insufficient for load-bearing applications unless reinforced or modified."
+},
+{
+  "id": "0f4a6472-4576-44e1-8493-e04780df0119",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "111",
+  "question": "Why is crosslinking important in hydrogel design?",
+  "options": {
+    "a": "It primarily converts hydrated polymer networks into calcium phosphate ceramics",
+    "b": "It is mainly used to remove the relationship between hydrogel structure and swelling",
+    "c": "It can control network stability, swelling, degradation and mechanical behaviour",
+    "d": "It generally makes hydrogel properties independent of polymer chemistry"
+  },
+  "answer": "c",
+  "explanation": "Crosslinking controls the structure of the hydrogel network. This affects swelling, stiffness, degradation, permeability and sometimes cell compatibility."
+},
+{
+  "id": "6aa3673f-86ef-4686-8410-0d79f7a9b257",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "112",
+  "question": "Which statement best explains why collagen is widely used in biomaterials and tissue engineering?",
+  "options": {
+    "a": "It is a bioinert metallic material used mainly for corrosion-resistant implants",
+    "b": "It is a major extracellular matrix protein that can support cell adhesion and tissue organisation",
+    "c": "It is a synthetic ceramic phase mainly used for hard bearing surfaces",
+    "d": "It is selected because enzymatic degradation is not relevant to collagen-based materials"
+  },
+  "answer": "b",
+  "explanation": "Collagen is a major ECM protein and can provide biological cues for cell adhesion, migration and matrix organisation. However, its mechanical properties and degradation may need control."
+},
+{
+  "id": "57e362c0-4960-4dde-8dc1-e26759015b7a",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "113",
+  "question": "Which limitation should be considered when using collagen-based scaffolds?",
+  "options": {
+    "a": "They may show weak mechanical properties, rapid degradation and source-dependent variability",
+    "b": "They are mainly limited by their lack of any cell-interactive biological motifs",
+    "c": "They are usually avoided because collagen cannot be processed into scaffold structures",
+    "d": "They are primarily unsuitable because collagen is not found in extracellular matrix"
+  },
+  "answer": "a",
+  "explanation": "Collagen is biologically active, but collagen scaffolds can have limited mechanical strength, enzymatic degradation and variability depending on source and processing."
+},
+{
+  "id": "8d0c74c6-5746-49c2-bd60-a4ebd7282967",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "114",
+  "question": "Which statement best describes alginate as a biomaterial?",
+  "options": {
+    "a": "A calcium phosphate ceramic used mainly for direct bone bonding",
+    "b": "A collagen-derived protein that forms thermoresponsive gels after denaturation",
+    "c": "A metallic alloy used in load-bearing orthopaedic implants",
+    "d": "A polysaccharide that can form hydrogels, often through ionic crosslinking with divalent cations"
+  },
+  "answer": "d",
+  "explanation": "Alginate is a natural polysaccharide that can form hydrogels, commonly through ionic crosslinking with divalent ions such as calcium."
+},
+{
+  "id": "a2dbbb40-1771-4e21-8cf8-cfd8c692db2d",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "115",
+  "question": "Which is a common limitation of alginate hydrogels for cell-interactive tissue engineering applications?",
+  "options": {
+    "a": "Alginate gels are mainly limited because they are mineral ceramics rather than polymers",
+    "b": "Alginate is typically unsuitable for hydrogel formation in aqueous systems",
+    "c": "Unmodified alginate has limited intrinsic cell-adhesive motifs",
+    "d": "Alginate has the same native cell-binding sequence profile as collagen"
+  },
+  "answer": "c",
+  "explanation": "Alginate can form useful hydrogels, but unmodified alginate generally lacks strong cell-adhesive motifs. It is often modified or combined with bioactive molecules to improve cell interactions."
+},
+{
+  "id": "c61d913f-0636-4a1e-9ae8-6722e4ec05e1",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "116",
+  "question": "Why is chitosan often discussed for cartilage or wound-related biomaterials?",
+  "options": {
+    "a": "It is a metallic biomaterial with corrosion resistance similar to titanium alloys",
+    "b": "It is a natural polysaccharide with structural similarity to glycosaminoglycans and can support certain biological interactions",
+    "c": "It is a calcium phosphate mineral that bonds directly to bone under physiological conditions",
+    "d": "It is mainly used because it lacks functional groups for chemical modification"
+  },
+  "answer": "b",
+  "explanation": "Chitosan is derived from chitin and has structural similarity to glycosaminoglycans. This makes it relevant for cartilage, wound healing and scaffold-related applications."
+},
+{
+  "id": "2027f479-1c9b-4768-ae8e-66fa950fecec",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "117",
+  "question": "Which statement best explains why gelatin can be useful as a biomaterial?",
+  "options": {
+    "a": "It is a calcium phosphate ceramic mainly used for osteoconductive coatings",
+    "b": "It is a non-polymeric salt used to crosslink alginate hydrogels",
+    "c": "It is a metallic implant material with high fatigue resistance",
+    "d": "It is derived from collagen and can retain some cell-interactive features while being easier to process"
+  },
+  "answer": "d",
+  "explanation": "Gelatin is derived from collagen and is commonly used because it is relatively processable and can provide biological cues. Its stability often requires crosslinking or modification."
+},
+{
+  "id": "c9edfcfa-11f7-4bf7-87e8-59b79212d00a",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "118",
+  "question": "Which condition-sensitive statement about hydrogel swelling is most accurate?",
+  "options": {
+    "a": "Swelling depends on polymer chemistry, crosslinking density, ionic environment and water availability",
+    "b": "Swelling is mainly determined by whether the gel is transparent after fabrication",
+    "c": "Swelling generally has little relationship with diffusion or mechanical behaviour",
+    "d": "Swelling is best evaluated without considering the surrounding fluid environment"
+  },
+  "answer": "a",
+  "explanation": "Hydrogel swelling is context-dependent. Polymer chemistry, crosslink density, pH, ionic strength and surrounding fluid conditions can all influence swelling and mechanical properties."
+},
+{
+  "id": "51ca7808-6023-4d49-81b8-7b8c1fedba23",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "119",
+  "question": "Which option best compares natural and synthetic hydrogels for tissue engineering?",
+  "options": {
+    "a": "Natural hydrogels mainly offer mechanical uniformity, while synthetic hydrogels mainly provide native biological motifs",
+    "b": "Synthetic hydrogels are generally selected because their chemistry cannot be modified",
+    "c": "Natural hydrogels may provide biological cues, while synthetic hydrogels often offer more controllable chemistry and mechanics",
+    "d": "Natural and synthetic hydrogels are compared mainly by optical transparency rather than biological or mechanical function"
+  },
+  "answer": "c",
+  "explanation": "Natural hydrogels can provide biological recognition signals, while synthetic hydrogels may offer better control over structure, degradation and mechanics. Both categories have advantages and limitations."
+},
+{
+  "id": "7e944e06-c9e5-40ac-9806-3d41055c0aaa",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "120",
+  "question": "Which evidence would best support a claim that a hydrogel improves chondrogenic differentiation?",
+  "options": {
+    "a": "Improved optical transparency and ease of handling during culture",
+    "b": "Increased cartilage-related markers compared with an appropriate control group",
+    "c": "Lower polymer concentration without assessment of cell phenotype",
+    "d": "Higher swelling ratio without matrix or gene-expression evidence"
+  },
+  "answer": "b",
+  "explanation": "Claims about chondrogenic differentiation should be supported by relevant markers, such as cartilage matrix production or gene/protein expression, compared with proper controls."
+},
+{
+  "id": "da0a9bb2-5dd9-4511-a12d-53396f9b39cc",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "121",
+  "question": "Which statement best explains why degradability can be beneficial in a hydrogel scaffold?",
+  "options": {
+    "a": "Degradability is mainly useful because it prevents matrix deposition by cells",
+    "b": "A degradable hydrogel should lose support before cell attachment begins",
+    "c": "Degradation is beneficial when it makes the scaffold independent of tissue formation rate",
+    "d": "Controlled degradation can allow gradual replacement by newly formed tissue"
+  },
+  "answer": "d",
+  "explanation": "Controlled degradation can help a scaffold provide early support and later create space for tissue deposition and remodelling. The degradation rate must match the intended application."
+},
+{
+  "id": "ef14af0d-9467-4484-aec7-44c390ed30bc",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "122",
+  "question": "Which feature is most important when using a hydrogel for controlled drug delivery?",
+  "options": {
+    "a": "Ability to regulate drug loading and release kinetics",
+    "b": "High swelling without considering drug-polymer interactions",
+    "c": "Rapid degradation before drug loading is completed",
+    "d": "Mechanical stiffness alone, regardless of release profile"
+  },
+  "answer": "a",
+  "explanation": "Hydrogels can be designed for drug delivery by controlling swelling, mesh size, degradation and interactions with the drug, which influence release kinetics."
+},
+{
+  "id": "5a3be12c-6060-4d06-8dce-9d4a3d51bf94",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "123",
+  "question": "Which uncertainty should be recognised when asked whether one hydrogel is superior to another?",
+  "options": {
+    "a": "A hydrogel with higher swelling should be considered superior regardless of tissue type",
+    "b": "A natural hydrogel should be considered superior whenever biological cues are present",
+    "c": "Superiority depends on application, cell type, mechanical requirements, degradation and outcome measures",
+    "d": "A synthetic hydrogel should be considered superior whenever its chemistry is more controllable"
+  },
+  "answer": "c",
+  "explanation": "Material comparison is context-dependent. A careful answer should avoid overclaiming and recognise that the best hydrogel depends on the intended tissue, cell type, mechanical demands, degradation profile and evaluation metrics."
+},
+{
+  "id": "1a63cf1b-7277-4895-86e0-3812cbdfb4ec",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "124",
+  "question": "Which statement best explains why hydroxyapatite is used in bone-related biomaterials?",
+  "options": {
+    "a": "It is used mainly because its hydrated polymer network resembles soft extracellular matrix",
+    "b": "It chemically resembles the mineral phase of bone and can support bone bonding",
+    "c": "It is primarily selected because it behaves like a flexible elastomer under load",
+    "d": "It improves bone repair mainly by avoiding interaction with mineralised tissue"
+  },
+  "answer": "b",
+  "explanation": "Hydroxyapatite is chemically similar to the mineral component of bone, which helps explain its use in bone repair, coatings and osteoconductive biomaterials."
+},
+{
+  "id": "0b09a928-61d2-4cf8-a3ce-86e783ac7ba5",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "125",
+  "question": "Which limitation is most relevant for using hydroxyapatite as a structural load-bearing implant by itself?",
+  "options": {
+    "a": "Its similarity to bone mineral reduces its relevance for bone-contact applications",
+    "b": "Its calcium phosphate composition prevents osteoconductive surface behaviour",
+    "c": "Its biological activity usually provides enough toughness for high-load implantation",
+    "d": "Brittleness and limited fracture toughness"
+  },
+  "answer": "d",
+  "explanation": "Hydroxyapatite is bioactive and bone-like, but it is brittle and has limited fracture toughness, which can restrict its use as a standalone load-bearing implant."
+},
+{
+  "id": "c5e2fd99-7b47-4cc2-bc54-e22f7289d909",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "126",
+  "question": "Which option best describes osteoconduction?",
+  "options": {
+    "a": "The stimulation of progenitor cells to differentiate into osteoblast-like cells",
+    "b": "A material property that supports bone growth along its surface or structure",
+    "c": "The release of soluble signals that directly initiates ectopic bone formation",
+    "d": "The conversion of a polymeric scaffold into a calcium phosphate ceramic"
+  },
+  "answer": "b",
+  "explanation": "Osteoconduction refers to the ability of a material to support bone growth on or through its structure. It is different from osteoinduction, which involves inducing progenitor cells toward bone formation."
+},
+{
+  "id": "fbb7885f-e715-46e8-908a-5d14323f19ff",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "127",
+  "question": "Which option best describes osteoinduction?",
+  "options": {
+    "a": "The passive support of bone growth along an existing scaffold surface",
+    "b": "The mineral dissolution of calcium phosphate without any cell response",
+    "c": "The formation of a fibrous capsule around a bone-contact implant",
+    "d": "The ability to induce undifferentiated or progenitor cells to become bone-forming cells"
+  },
+  "answer": "d",
+  "explanation": "Osteoinduction refers to the ability to stimulate progenitor cells toward osteogenic differentiation. It is a stronger biological claim than simple osteoconduction."
+},
+{
+  "id": "a4310870-7b4c-4bd5-97e9-0d5d733dd65c",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "128",
+  "question": "Which evidence would best support a claim that a biomaterial is osteoinductive?",
+  "options": {
+    "a": "Evidence of osteogenic differentiation or ectopic bone formation under appropriate experimental conditions",
+    "b": "Improved compressive stiffness without assessment of osteogenic differentiation",
+    "c": "Surface roughness measurements showing increased nanoscale texture",
+    "d": "Calcium phosphate content similar to bone mineral but no cell or tissue response data"
+  },
+  "answer": "a",
+  "explanation": "Osteoinduction requires evidence that the material can induce osteogenic differentiation or bone formation, not merely that it is stiff, rough, or chemically similar to bone."
+},
+{
+  "id": "b5010535-dfd3-45da-b6f3-22c6c0fd281d",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "129",
+  "question": "Which statement best compares bioinert and bioactive ceramics?",
+  "options": {
+    "a": "Bioinert ceramics are designed to degrade rapidly, while bioactive ceramics avoid tissue contact",
+    "b": "Bioactive and bioinert ceramics are distinguished mainly by whether they are natural polymers",
+    "c": "Bioactive ceramics can form bonding interactions with tissue, while bioinert ceramics are designed to have minimal chemical interaction",
+    "d": "Bioinert ceramics primarily stimulate osteogenic differentiation through soluble growth factor release"
+  },
+  "answer": "c",
+  "explanation": "Bioactive ceramics are intended to interact with tissue and may bond to bone. Bioinert ceramics are relatively stable and have limited direct chemical bonding with tissue."
+},
+{
+  "id": "d96c51a3-42a0-4c90-8d92-2a3840b7dba9",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "130",
+  "question": "Which ceramic is commonly associated with high wear resistance in orthopaedic bearing applications?",
+  "options": {
+    "a": "Alginate",
+    "b": "Alumina",
+    "c": "Gelatin",
+    "d": "Collagen"
+  },
+  "answer": "b",
+  "explanation": "Alumina is a bioinert ceramic known for hardness and wear resistance, making it relevant to certain orthopaedic bearing applications."
+},
+{
+  "id": "e3029023-3684-403c-bce5-b51168f86406",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "131",
+  "question": "Which statement best explains the use of bioactive glass in bone repair?",
+  "options": {
+    "a": "It can form a surface layer that supports bonding with bone tissue",
+    "b": "It functions mainly by preventing ion exchange with surrounding biological fluid",
+    "c": "It is used because it behaves as a hydrated polymer network similar to soft ECM",
+    "d": "It is primarily selected because it has the same mechanical behaviour as cortical bone"
+  },
+  "answer": "a",
+  "explanation": "Bioactive glass can interact with biological fluids and form a surface apatite-like layer, supporting bonding with bone tissue."
+},
+{
+  "id": "6f296d86-5474-4d32-ad47-53e5b2695e02",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "132",
+  "question": "Which factor is most important when selecting a calcium phosphate material for bone regeneration?",
+  "options": {
+    "a": "Whether the material has the highest possible density regardless of defect site",
+    "b": "Whether the material prevents interaction with bone-forming cells",
+    "c": "Whether the material has a fixed resorption rate in every implantation environment",
+    "d": "Its balance of bioactivity, resorption rate, mechanical properties, and intended clinical site"
+  },
+  "answer": "d",
+  "explanation": "Calcium phosphate selection depends on the intended application. Bioactivity, degradation or resorption rate, mechanical stability, and defect environment all matter."
+},
+{
+  "id": "734a3229-281e-4d50-b3e1-5b11d1537e48",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "133",
+  "question": "Which condition-sensitive statement about ceramic resorption is most accurate?",
+  "options": {
+    "a": "Rapid resorption is preferred whenever the ceramic is used in a bone defect",
+    "b": "Resorption can be beneficial if it matches the rate of new bone formation",
+    "c": "Resorption rate mainly affects implant surface colour rather than bone repair",
+    "d": "A non-resorbable ceramic cannot be useful in any bone-contact application"
+  },
+  "answer": "b",
+  "explanation": "Controlled resorption can allow gradual replacement by bone. If resorption is too fast or too slow, mechanical support and tissue regeneration may be compromised."
+},
+{
+  "id": "d3e0512e-cd4d-4f2b-841b-546c08e663c9",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "134",
+  "question": "Why are hydroxyapatite coatings used on some metallic implants?",
+  "options": {
+    "a": "To make the implant behave like a flexible cartilage substitute",
+    "b": "To reduce bone bonding by masking the implant from mineralised tissue",
+    "c": "To combine the mechanical strength of metal with a more bone-interactive surface",
+    "d": "To convert the metal implant into a degradable hydrogel scaffold"
+  },
+  "answer": "c",
+  "explanation": "Metallic implants provide mechanical strength, while hydroxyapatite coatings can improve bone interaction and osseointegration at the surface."
+},
+{
+  "id": "dbb877e2-6083-4c88-8645-aec2d072cb19",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "135",
+  "question": "Which statement best explains why pore structure matters in bioceramic scaffolds for bone repair?",
+  "options": {
+    "a": "Pores can support cell infiltration, vascular ingrowth, and bone tissue formation",
+    "b": "Pores mainly improve performance by removing the need for biological evaluation",
+    "c": "Pore structure is relevant to polymer hydrogels but not to ceramic scaffolds",
+    "d": "Closed pores are generally preferred when the goal is tissue ingrowth"
+  },
+  "answer": "a",
+  "explanation": "Porous bioceramic scaffolds can support bone ingrowth and vascularisation, although pore size and interconnectivity must be balanced with mechanical strength."
+},
+{
+  "id": "efcb842b-a87c-45c6-89dc-f73b933f6114",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "136",
+  "question": "Which outcome would be most relevant for evaluating osseointegration of a bone implant?",
+  "options": {
+    "a": "A decrease in hydrogel swelling ratio after crosslinking",
+    "b": "Improved antibacterial activity without assessment of bone contact",
+    "c": "Reduced polymer degradation rate in phosphate-buffered saline",
+    "d": "Direct structural and functional connection between bone and implant surface"
+  },
+  "answer": "d",
+  "explanation": "Osseointegration refers to a direct structural and functional connection between living bone and an implant surface. It is relevant for bone-anchored implants."
+},
+{
+  "id": "b3bbcae2-75e7-4d21-9dac-e44d9a70c86c",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "137",
+  "question": "Which statement should be avoided when evidence is limited to in vitro mineralisation assays?",
+  "options": {
+    "a": "Stating that the assay may suggest osteogenic potential under tested conditions",
+    "b": "Mentioning that further in vivo or clinical evidence may be needed",
+    "c": "Claiming that the material is proven to regenerate large human bone defects clinically",
+    "d": "Recognising that in vitro results are condition-dependent"
+  },
+  "answer": "c",
+  "explanation": "In vitro mineralisation can support early evidence, but it does not by itself prove clinical regeneration of large human bone defects. Scientific interpretation should avoid overclaiming beyond the available evidence."
+},
+{
+  "id": "e25d1f8e-f3c0-478c-aad6-48e6800d857f",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "138",
+  "question": "Which comparison between hydroxyapatite and bioactive glass is most accurate?",
+  "options": {
+    "a": "Hydroxyapatite is a natural protein, while bioactive glass is a synthetic hydrogel",
+    "b": "Both can be used in bone-related biomaterials, but their dissolution behaviour, ion release, and biological responses may differ",
+    "c": "Both materials are used mainly because they avoid ion exchange in biological environments",
+    "d": "Hydroxyapatite and bioactive glass are identical in chemistry, degradation, and clinical performance"
+  },
+  "answer": "b",
+  "explanation": "Hydroxyapatite and bioactive glass are both relevant to bone repair, but they are not identical. Their chemistry, dissolution, ion release, and tissue responses can differ."
+},
+{
+  "id": "f21db1c7-7d2c-44f7-bd8e-28a8be3c6742",
+  "section": "Implant Failure and Host Response",
+  "number": "139",
+  "question": "Which statement best describes the foreign body response to an implanted biomaterial?",
+  "options": {
+    "a": "A host response involving protein adsorption, inflammation, macrophage activity, and possible fibrous encapsulation",
+    "b": "A mechanical fatigue process that occurs without immune-cell involvement",
+    "c": "A surface mineralisation process limited to calcium phosphate implants",
+    "d": "A sterilisation method used to remove bacteria before implantation"
+  },
+  "answer": "a",
+  "explanation": "The foreign body response is a biological host response to an implanted material. It can involve protein adsorption, inflammatory cells, macrophages, foreign body giant cells, and fibrous capsule formation."
+},
+{
+  "id": "ae3f7e36-37c4-47cc-b99e-c5af7b48fe67",
+  "section": "Implant Failure and Host Response",
+  "number": "140",
+  "question": "Why can fibrous capsule formation reduce the function of some implants?",
+  "options": {
+    "a": "It improves implant function by increasing direct molecular exchange with surrounding tissues",
+    "b": "It is mainly useful because it prevents macrophage recruitment to the implant site",
+    "c": "It indicates that the implant has been fully replaced by regenerated tissue",
+    "d": "It can physically separate the implant from surrounding tissue and limit functional integration"
+  },
+  "answer": "d",
+  "explanation": "Fibrous encapsulation can isolate an implant from surrounding tissue. This may be problematic for implants requiring close tissue contact, integration, sensing, or controlled molecular exchange."
+},
+{
+  "id": "ee51b7f1-b91f-459e-bdd8-cbf64b0e84de",
+  "section": "Implant Failure and Host Response",
+  "number": "141",
+  "question": "Which factor is most likely to influence the severity of the host response to an implant?",
+  "options": {
+    "a": "The number of processing steps reported without considering material properties",
+    "b": "Material chemistry, surface properties, degradation products, implant location, and host condition",
+    "c": "The naming convention used for the biomaterial in a publication",
+    "d": "Whether the implant is described before or after the methods section"
+  },
+  "answer": "b",
+  "explanation": "Host response is multifactorial. Material chemistry, surface roughness, degradation products, implantation site, mechanical environment, contamination, and patient-specific factors can all influence the response."
+},
+{
+  "id": "8b76a1df-450a-4a5a-aef5-9b3baf1146b5",
+  "section": "Implant Failure and Host Response",
+  "number": "142",
+  "question": "Which statement best explains aseptic loosening of an orthopaedic implant?",
+  "options": {
+    "a": "Implant loosening caused primarily by acute bacterial biofilm infection",
+    "b": "Improved fixation caused by increased mineral deposition around an implant",
+    "c": "Implant loosening not primarily caused by infection, often associated with wear particles, inflammation, and bone loss",
+    "d": "A normal remodelling process that indicates successful long-term osseointegration"
+  },
+  "answer": "c",
+  "explanation": "Aseptic loosening refers to loosening without infection as the primary cause. It is often linked to wear debris, inflammatory reactions, osteolysis, and mechanical factors."
+},
+{
+  "id": "2bc47b66-e3ea-44c5-a7f6-40b1f240c8ec",
+  "section": "Implant Failure and Host Response",
+  "number": "143",
+  "question": "Why can wear particles from an implant contribute to osteolysis?",
+  "options": {
+    "a": "They can activate immune cells and inflammatory pathways that promote bone resorption",
+    "b": "They generally act as osteogenic particles that directly improve bone deposition",
+    "c": "They mainly reduce implant failure by suppressing macrophage activity",
+    "d": "They are evaluated by measuring implant surface roughness before implantation"
+  },
+  "answer": "a",
+  "explanation": "Wear particles can be phagocytosed or recognised by immune cells, leading to inflammatory mediator release. This can promote osteoclast activity and bone resorption around implants."
+},
+{
+  "id": "e1c3e7a9-5686-44f3-a73e-4cd4e0d52057",
+  "section": "Implant Failure and Host Response",
+  "number": "144",
+  "question": "Which condition-sensitive statement about implant wear particles is most accurate?",
+  "options": {
+    "a": "Wear particles from different materials produce identical host responses once implanted",
+    "b": "The biological effect of wear particles is independent of exposure duration",
+    "c": "Wear particle effects are determined mainly by whether the implant is metallic or polymeric",
+    "d": "Biological response can depend on particle material, size, shape, dose, and exposure duration"
+  },
+  "answer": "d",
+  "explanation": "The biological effect of wear debris is context-dependent. Particle size, shape, chemistry, concentration, and duration of exposure can influence inflammatory and tissue responses."
+},
+{
+  "id": "d62b5311-944d-4e47-b617-cf6bb93a4ad1",
+  "section": "Implant Failure and Host Response",
+  "number": "145",
+  "question": "Which statement best explains stress shielding in orthopaedic implants?",
+  "options": {
+    "a": "A low-stiffness hydrogel increases bone loading by acting as a permanent mineralised scaffold",
+    "b": "A stiff implant can carry too much load, reducing mechanical stimulation of nearby bone and causing bone resorption",
+    "c": "Stress shielding describes bacterial coverage of an implant surface after infection",
+    "d": "Stress shielding mainly refers to polymer swelling under physiological fluid exposure"
+  },
+  "answer": "b",
+  "explanation": "Stress shielding occurs when an implant is much stiffer than surrounding bone and carries a disproportionate amount of load. Reduced loading of bone can lead to bone resorption."
+},
+{
+  "id": "dcd620e1-5d82-4e5c-9a19-7e8f29dc3e0d",
+  "section": "Implant Failure and Host Response",
+  "number": "146",
+  "question": "Which material design strategy could reduce stress shielding in a bone implant?",
+  "options": {
+    "a": "Using an implant design or material with stiffness closer to that of bone where mechanically appropriate",
+    "b": "Increasing implant stiffness far beyond the surrounding bone in every anatomical site",
+    "c": "Prioritising surface colour and visual uniformity over mechanical compatibility",
+    "d": "Avoiding fatigue testing because stress shielding is unrelated to load transfer"
+  },
+  "answer": "a",
+  "explanation": "Reducing stiffness mismatch between implant and bone can help reduce stress shielding. However, the implant must still have adequate strength and fatigue resistance for its application."
+},
+{
+  "id": "56c32f41-53ab-4b76-bd09-5b71fe4f97c0",
+  "section": "Implant Failure and Host Response",
+  "number": "147",
+  "question": "Which statement best describes corrosion-related implant failure?",
+  "options": {
+    "a": "A cell-mediated process in which collagen is converted into mineralised bone",
+    "b": "Mechanical fatigue caused by repeated loading without chemical involvement",
+    "c": "A surface modification method used to increase hydrogel swelling",
+    "d": "Chemical or electrochemical degradation of a material that may release ions or weaken the implant"
+  },
+  "answer": "d",
+  "explanation": "Corrosion involves chemical or electrochemical degradation. In implants, corrosion may weaken the material or release ions that can affect local or systemic tissue responses."
+},
+{
+  "id": "c76f27d2-86dc-4f64-a325-4138a8b56f8e",
+  "section": "Implant Failure and Host Response",
+  "number": "148",
+  "question": "Which evidence would best support a claim that an implant material has good corrosion resistance?",
+  "options": {
+    "a": "A statement that the material has been polished before imaging",
+    "b": "A comparison of surface roughness without exposure to simulated physiological fluid",
+    "c": "Electrochemical testing or ion-release data under relevant simulated physiological conditions",
+    "d": "A mechanical compression test performed without chemical or electrochemical measurements"
+  },
+  "answer": "c",
+  "explanation": "Corrosion resistance should be supported by relevant experimental data, such as electrochemical measurements, immersion testing, and ion release under conditions that approximate the intended environment."
+},
+{
+  "id": "72dca2cb-9243-4b34-b145-f4d05142bb38",
+  "section": "Implant Failure and Host Response",
+  "number": "149",
+  "question": "Which statement best explains why infection is a serious complication for implants?",
+  "options": {
+    "a": "Biofilm formation generally improves osseointegration by increasing extracellular matrix deposition",
+    "b": "Bacteria can attach to implant surfaces and form biofilms that are difficult to eradicate",
+    "c": "Implant-associated bacteria are usually less tolerant to treatment than planktonic bacteria",
+    "d": "Infection risk is determined mainly by implant stiffness rather than bacterial attachment"
+  },
+  "answer": "b",
+  "explanation": "Implant-associated infection is serious because bacteria can adhere to surfaces and form biofilms, which can resist immune clearance and antimicrobial treatment."
+},
+{
+  "id": "c9c1b6fa-978c-4ee7-a71e-78e944f592b8",
+  "section": "Implant Failure and Host Response",
+  "number": "150",
+  "question": "Which statement best distinguishes local and systemic responses to a biomaterial?",
+  "options": {
+    "a": "Local and systemic responses are distinguished mainly by whether the material is natural or synthetic",
+    "b": "Local responses refer to drug release, while systemic responses refer only to scaffold porosity",
+    "c": "Local responses occur near the implant site, while systemic responses affect the body more broadly",
+    "d": "Systemic responses are limited to cell adhesion at the implant surface"
+  },
+  "answer": "c",
+  "explanation": "Local responses include inflammation, tissue integration, infection, or fibrosis near the implant. Systemic responses may involve immune, toxic, or inflammatory effects beyond the implant site."
+},
+{
+  "id": "f06bd5e7-1c58-4fdd-95c2-8d8b988dfdaa",
+  "section": "Implant Failure and Host Response",
+  "number": "151",
+  "question": "Which interpretation should be avoided when a study reports only short-term low cytotoxicity in vitro?",
+  "options": {
+    "a": "Stating that short-term cytotoxicity appeared low under the tested conditions",
+    "b": "Noting that further long-term and in vivo evaluation may be needed",
+    "c": "Claiming the material is proven safe for long-term human implantation",
+    "d": "Recognising that in vitro findings are limited by experimental conditions"
+  },
+  "answer": "c",
+  "explanation": "Short-term in vitro cytotoxicity data cannot by itself prove long-term clinical safety. Scientific interpretation should avoid overclaiming beyond the available evidence."
+},
+{
+  "id": "1c7ccda3-e4fd-44a8-a609-fde4a55db6b1",
+  "section": "Implant Failure and Host Response",
+  "number": "152",
+  "question": "Which outcome is most relevant when evaluating whether an implant is mechanically failing?",
+  "options": {
+    "a": "Fracture, fatigue damage, loosening, excessive wear, or loss of intended mechanical function",
+    "b": "Reduced local inflammation without evaluating load-bearing function",
+    "c": "Protein adsorption at early implantation time points",
+    "d": "A change in hydrogel swelling ratio during immersion testing"
+  },
+  "answer": "a",
+  "explanation": "Mechanical failure can include fracture, fatigue, wear, loosening, deformation, or inability to perform the intended load-bearing or structural function."
+},
+{
+  "id": "f85c793a-3a25-49f6-9be4-024826d9853d",
+  "section": "Implant Failure and Host Response",
+  "number": "153",
+  "question": "Which statement is most accurate about evaluating implant success?",
+  "options": {
+    "a": "Success can be judged mainly from short-term cell viability data alone",
+    "b": "Success is determined by mechanical strength without considering host response",
+    "c": "Success depends primarily on whether the implant material is natural or synthetic",
+    "d": "Success depends on mechanical performance, biological response, clinical context, and duration of function"
+  },
+  "answer": "d",
+  "explanation": "Implant success is multidimensional. Mechanical durability, integration, infection risk, host response, degradation, patient factors, and long-term clinical function all matter."
+},
+{
+  "id": "6e77ef9d-0e56-4fb2-96bd-81d0a9a48dc0",
+  "section": "Antibacterial Biomaterials",
+  "number": "154",
+  "question": "What is a main goal of antibacterial biomaterials?",
+  "options": {
+    "a": "To increase bacterial adhesion so that immune cells can recognise the implant faster",
+    "b": "To reduce bacterial adhesion, growth, biofilm formation, or infection risk while preserving host compatibility",
+    "c": "To replace the need for cytocompatibility testing in implant development",
+    "d": "To prioritise bacterial killing without considering tissue response"
+  },
+  "answer": "b",
+  "explanation": "Antibacterial biomaterials aim to reduce bacterial colonisation or infection while maintaining acceptable compatibility with host cells and tissues."
+},
+{
+  "id": "ef8ed931-861c-4ed4-8908-6b593bcb41fc",
+  "section": "Antibacterial Biomaterials",
+  "number": "155",
+  "question": "Which statement best explains why biofilms are difficult to treat on implant surfaces?",
+  "options": {
+    "a": "Biofilms can protect bacteria from antibiotics and immune clearance",
+    "b": "Biofilms reduce bacterial persistence by preventing extracellular matrix formation",
+    "c": "Bacteria in biofilms usually become easier to remove than planktonic cells",
+    "d": "Biofilms are mainly relevant to soft hydrogels rather than implant surfaces"
+  },
+  "answer": "a",
+  "explanation": "Bacteria in biofilms are embedded in a protective extracellular matrix and can be more tolerant to antibiotics and immune responses than planktonic cells."
+},
+{
+  "id": "a5d3044b-2954-4d0f-a313-30d5ae6075c2",
+  "section": "Antibacterial Biomaterials",
+  "number": "156",
+  "question": "Which strategy is most directly related to contact-killing antibacterial surfaces?",
+  "options": {
+    "a": "Using soluble antibiotic release as the sole antibacterial mechanism",
+    "b": "Increasing scaffold porosity to improve bacterial nutrient access",
+    "c": "Selecting a surface that promotes bacterial adhesion for later removal",
+    "d": "Immobilising antibacterial functional groups on the surface to kill bacteria upon contact"
+  },
+  "answer": "d",
+  "explanation": "Contact-killing surfaces use immobilised antibacterial groups or structures to kill bacteria at the material interface, rather than relying only on release of soluble drugs."
+},
+{
+  "id": "78d3b9c0-14a0-4044-b762-924be5bfb2f7",
+  "section": "Antibacterial Biomaterials",
+  "number": "157",
+  "question": "Which strategy is most directly related to release-based antibacterial biomaterials?",
+  "options": {
+    "a": "Reducing bacterial adhesion through a permanently hydrated anti-fouling layer",
+    "b": "Using surface-bound groups that act only when bacteria contact the interface",
+    "c": "Controlled delivery of antibacterial agents such as antibiotics, metal ions, or antimicrobial molecules",
+    "d": "Increasing implant roughness to improve bacterial colonisation for testing"
+  },
+  "answer": "c",
+  "explanation": "Release-based antibacterial systems aim to deliver antibacterial agents from the material over time. Release kinetics, dose, toxicity, and resistance risk must be considered."
+},
+{
+  "id": "1e45988d-62d8-4208-a364-4a397e9cce23",
+  "section": "Antibacterial Biomaterials",
+  "number": "158",
+  "question": "Which concern is most relevant when using silver-containing antibacterial biomaterials?",
+  "options": {
+    "a": "Silver-containing systems are evaluated mainly by scaffold pore size rather than biological dose response",
+    "b": "Balancing antibacterial activity with potential cytotoxicity and dose-dependent effects",
+    "c": "Silver is mainly used because it provides osteoconduction without antibacterial effects",
+    "d": "Silver release is unrelated to local mammalian cell response"
+  },
+  "answer": "b",
+  "explanation": "Silver can provide antibacterial activity, but its biological effects are dose-dependent. Excessive release or concentration may harm mammalian cells, so dose and release must be controlled."
+},
+{
+  "id": "ee0b9a5c-6031-4d14-8fe3-6892d36047b8",
+  "section": "Antibacterial Biomaterials",
+  "number": "159",
+  "question": "Which evidence would best support a claim that a coating has antibacterial activity?",
+  "options": {
+    "a": "A description of surface roughness without bacterial testing",
+    "b": "Improved mammalian cell spreading without bacterial outcome measures",
+    "c": "A statement that the coating contains a bioactive element without quantitative assay data",
+    "d": "Quantitative reduction in bacterial adhesion, viability, colony counts, or biofilm biomass compared with an appropriate control"
+  },
+  "answer": "d",
+  "explanation": "Antibacterial claims should be supported by quantitative biological evidence, such as colony-forming units, live/dead staining, bacterial adhesion assays, or biofilm biomass measurements with controls."
+},
+{
+  "id": "ec2d2345-29b7-47b5-a6e3-7bbfa367c40e",
+  "section": "Antibacterial Biomaterials",
+  "number": "160",
+  "question": "Which condition-sensitive statement about antibacterial test results is most accurate?",
+  "options": {
+    "a": "Results can depend on bacterial strain, contact time, culture conditions, material dose, and assay method",
+    "b": "A result against one bacterial strain establishes the same performance across all clinically relevant microbes",
+    "c": "Antibacterial performance is mainly determined by whether the material is natural or synthetic",
+    "d": "Assay conditions are less relevant than the visual appearance of the coating"
+  },
+  "answer": "a",
+  "explanation": "Antibacterial performance depends on experimental context. Strain type, inoculum, exposure time, medium, assay method, and material dose can all influence results."
+},
+{
+  "id": "9ebfc053-a9ff-4dfa-81ad-9a70e4f1bf4a",
+  "section": "Antibacterial Biomaterials",
+  "number": "161",
+  "question": "Which statement best describes a trade-off in antibacterial biomaterial design?",
+  "options": {
+    "a": "Increasing bacterial adhesion may be useful if host cells attach at the same time",
+    "b": "Antibacterial performance can be assessed without considering mammalian cells",
+    "c": "Increasing antibacterial potency may also increase risk of host-cell toxicity if not controlled",
+    "d": "A material that kills bacteria should be considered suitable for implantation without further testing"
+  },
+  "answer": "c",
+  "explanation": "An effective antibacterial biomaterial should reduce bacterial colonisation while maintaining acceptable host-cell compatibility. Strong antimicrobial effects may become harmful if dose or mechanism is not controlled."
+},
+{
+  "id": "bbcd4036-ef49-46a4-962e-5f0e30d9d1ff",
+  "section": "Antibacterial Biomaterials",
+  "number": "162",
+  "question": "Which surface property can reduce bacterial adhesion without necessarily killing bacteria directly?",
+  "options": {
+    "a": "A porous surface that increases bacterial nutrient retention",
+    "b": "Anti-adhesive surface chemistry or topography that discourages bacterial attachment",
+    "c": "A release system that delivers high-dose antibiotics into surrounding tissue",
+    "d": "A surface that promotes bacterial biofilm maturation for immune recognition"
+  },
+  "answer": "b",
+  "explanation": "Some antibacterial strategies aim to resist bacterial attachment through surface chemistry, hydration layers, charge, or topography. These may reduce adhesion without directly killing bacteria."
+},
+{
+  "id": "87861aa7-931a-48b1-83c3-6835495311e7",
+  "section": "Antibacterial Biomaterials",
+  "number": "163",
+  "question": "Which statement best explains why antibacterial and osteogenic functions may both be needed for bone implants?",
+  "options": {
+    "a": "The implant should reduce infection risk while also supporting bone integration",
+    "b": "Bone implants are mainly evaluated by antibacterial function rather than tissue integration",
+    "c": "Antibacterial activity is generally unrelated to bone implant performance",
+    "d": "Osteogenic function becomes unnecessary if bacterial adhesion is reduced"
+  },
+  "answer": "a",
+  "explanation": "Bone implants often need to support osseointegration while reducing infection risk. The challenge is to combine antibacterial performance with cytocompatibility and bone-forming activity."
+},
+{
+  "id": "6e27d749-cb38-4dd2-9e4d-392bf976d9ef",
+  "section": "Antibacterial Biomaterials",
+  "number": "164",
+  "question": "Which interpretation should be avoided if a material reduces one bacterial strain in vitro but lacks mammalian cell data?",
+  "options": {
+    "a": "Stating that antibacterial activity was observed under the tested in vitro condition",
+    "b": "Noting that cytocompatibility and broader testing are still needed",
+    "c": "Recognising that the conclusion is limited by the tested strain and assay",
+    "d": "Claiming the material is clinically safe and broadly antibacterial for all applications"
+  },
+  "answer": "d",
+  "explanation": "A single in vitro antibacterial result does not prove clinical safety or broad-spectrum activity. Scientific interpretation should avoid unsupported generalisation."
+},
+{
+  "id": "4c90dc24-d3ff-4f98-a022-24da814106a8",
+  "section": "Antibacterial Biomaterials",
+  "number": "165",
+  "question": "Which comparison between antibiotic release and contact-killing surfaces is most accurate?",
+  "options": {
+    "a": "Contact-killing surfaces act mainly by releasing high antibiotic doses into the medium",
+    "b": "Antibiotic release depends on controlled delivery into the environment, while contact-killing depends on bacteria interacting with the active surface",
+    "c": "Both strategies are evaluated without considering bacterial contact time or host-cell response",
+    "d": "Release-based systems and contact-killing systems have identical mechanisms at the material interface"
+  },
+  "answer": "b",
+  "explanation": "Release systems deliver antibacterial agents into the surrounding environment, while contact-killing surfaces act mainly at the interface. Each has advantages, limitations, and safety considerations."
+},
+{
+  "id": "a0aa94e8-f870-437a-8b12-8065f013d1ab",
+  "section": "Antibacterial Biomaterials",
+  "number": "166",
+  "question": "Which factor is important when evaluating risk of antimicrobial resistance in release-based biomaterials?",
+  "options": {
+    "a": "Whether the material surface has the same roughness before and after sterilisation",
+    "b": "Whether mammalian cells spread more rapidly on the material surface",
+    "c": "Whether released concentrations may become sub-lethal over time and select for tolerant or resistant bacteria",
+    "d": "Whether the biomaterial is natural or synthetic without considering drug release"
+  },
+  "answer": "c",
+  "explanation": "Release-based systems may create changing local concentrations. If antibacterial levels fall below effective thresholds, they may contribute to selection pressure for tolerant or resistant bacteria."
+},
+{
+  "id": "5cbab03c-d483-42f0-bfb9-fd1df28ec53a",
+  "section": "Antibacterial Biomaterials",
+  "number": "167",
+  "question": "Which outcome would best evaluate whether an antibacterial coating also supports host-cell compatibility?",
+  "options": {
+    "a": "Testing mammalian cell viability, adhesion, or function alongside antibacterial assays",
+    "b": "Measuring bacterial reduction without any mammalian cell assay",
+    "c": "Assessing surface topography without cell response data",
+    "d": "Comparing coating thickness without biological testing"
+  },
+  "answer": "a",
+  "explanation": "A coating intended for implantation should be assessed for both antibacterial effect and host-cell response. Mammalian cell viability, adhesion, proliferation, and function are relevant measures."
+},
+{
+  "id": "16ec4fc2-2138-4387-aa2e-7d073f00d68f",
+  "section": "Antibacterial Biomaterials",
+  "number": "168",
+  "question": "Which statement best reflects uncertainty when comparing antibacterial biomaterials across studies?",
+  "options": {
+    "a": "A higher percentage reduction in one study proves superiority regardless of assay conditions",
+    "b": "Comparisons should focus mainly on whether the materials have similar visual appearance",
+    "c": "Studies using different bacteria can be combined without considering strain-specific responses",
+    "d": "Differences in strains, assays, exposure times, controls, and outcome measures can make direct comparison difficult"
+  },
+  "answer": "d",
+  "explanation": "Antibacterial studies often differ in bacterial strains, inoculum, culture media, assay methods, controls, time points, and outcome measures. These differences can limit direct comparison."
+},
+{
+  "id": "e8cb8b4f-77d5-4ed6-842e-b4e4453f9212",
+  "section": "Drug Delivery Biomaterials",
+  "number": "169",
+  "question": "What is a main purpose of using biomaterials in drug delivery systems?",
+  "options": {
+    "a": "To prevent therapeutic molecules from diffusing into nearby tissue",
+    "b": "To control where, when, and how fast a therapeutic agent is released",
+    "c": "To make drug release independent of material degradation or swelling",
+    "d": "To evaluate biomaterial performance without considering dose"
+  },
+  "answer": "b",
+  "explanation": "Drug delivery biomaterials are designed to control release location, timing, dosage, and kinetics. This can improve therapeutic effectiveness and reduce unwanted side effects."
+},
+{
+  "id": "3b76c7a5-ec59-4f2c-8f56-b22beed55a35",
+  "section": "Drug Delivery Biomaterials",
+  "number": "170",
+  "question": "Which property is especially important for a biodegradable drug delivery carrier?",
+  "options": {
+    "a": "Maximum mechanical stiffness regardless of drug release behaviour",
+    "b": "Hydrophobicity alone, because degradation products do not affect tissue response",
+    "c": "Its degradation rate should be compatible with the intended drug release profile and biological environment",
+    "d": "Its ability to prevent any interaction between carrier, drug, and surrounding fluid"
+  },
+  "answer": "c",
+  "explanation": "For biodegradable carriers, degradation rate can strongly influence drug release and tissue response. The degradation profile should match the therapeutic goal and implantation environment."
+},
+{
+  "id": "6e4e19d1-9fdf-4c41-8e3b-937ae536128c",
+  "section": "Drug Delivery Biomaterials",
+  "number": "171",
+  "question": "Which statement best describes controlled release?",
+  "options": {
+    "a": "Drug release is regulated over time rather than occurring all at once",
+    "b": "Drug molecules remain permanently trapped in the carrier",
+    "c": "The carrier releases drug based mainly on its visual transparency",
+    "d": "Release behaviour is unrelated to material structure or degradation"
+  },
+  "answer": "a",
+  "explanation": "Controlled release aims to regulate the release rate and duration of a therapeutic agent. It may reduce dosing frequency and maintain drug levels within a useful therapeutic range."
+},
+{
+  "id": "cfa486b7-6ee9-44a0-8ab6-45a19555219c",
+  "section": "Drug Delivery Biomaterials",
+  "number": "172",
+  "question": "Which factor can influence drug release from a hydrogel carrier?",
+  "options": {
+    "a": "Material colour and surface gloss after fabrication",
+    "b": "Whether the hydrogel is described as natural or synthetic without further testing",
+    "c": "The order in which experimental images are shown in a report",
+    "d": "Mesh size, swelling, degradation, drug-polymer interactions, and crosslinking density"
+  },
+  "answer": "d",
+  "explanation": "Hydrogel drug release can be affected by network structure, swelling, degradation, crosslinking, and interactions between the drug and polymer."
+},
+{
+  "id": "9e8fb066-d5d7-47d2-ae59-9f67e46b48cf",
+  "section": "Drug Delivery Biomaterials",
+  "number": "173",
+  "question": "Which statement best explains why burst release can be a limitation in drug delivery systems?",
+  "options": {
+    "a": "Burst release improves drug delivery by preventing early local drug exposure",
+    "b": "A large initial release may cause toxicity or shorten the intended duration of therapy",
+    "c": "Burst release is mainly a measurement of scaffold compressive modulus",
+    "d": "A burst release profile indicates that no drug has left the carrier"
+  },
+  "answer": "b",
+  "explanation": "Burst release can lead to excessive early drug concentration and reduced long-term release. Depending on the application, this may increase toxicity or reduce therapeutic duration."
+},
+{
+  "id": "882d9411-817c-4188-8ee4-3eb29810a1ce",
+  "section": "Drug Delivery Biomaterials",
+  "number": "174",
+  "question": "Which evidence would best support a claim that a biomaterial provides sustained drug release?",
+  "options": {
+    "a": "A single endpoint image of the carrier after fabrication",
+    "b": "A statement that the material is biodegradable without release measurements",
+    "c": "A time-course release profile showing drug release over a relevant period",
+    "d": "A cytocompatibility assay without measurement of drug concentration"
+  },
+  "answer": "c",
+  "explanation": "Sustained release should be supported by quantitative release data over time, ideally under conditions relevant to the intended biological or clinical application."
+},
+{
+  "id": "c6bdbe1d-5694-4996-9f54-43f8df3664ed",
+  "section": "Drug Delivery Biomaterials",
+  "number": "175",
+  "question": "Which statement best describes a stimulus-responsive drug delivery biomaterial?",
+  "options": {
+    "a": "A material that changes release behaviour in response to triggers such as pH, temperature, enzymes, or light",
+    "b": "A carrier whose release behaviour is independent of environmental conditions",
+    "c": "A material designed mainly to prevent drug diffusion under all biological conditions",
+    "d": "A scaffold evaluated only by mechanical stiffness without release testing"
+  },
+  "answer": "a",
+  "explanation": "Stimulus-responsive biomaterials can alter swelling, degradation, permeability, or drug release in response to environmental or externally applied triggers."
+},
+{
+  "id": "c97a06d8-31e6-4a84-a7a4-f95a79a7c4a9",
+  "section": "Drug Delivery Biomaterials",
+  "number": "176",
+  "question": "Which factor is important when evaluating drug loading efficiency in a biomaterial carrier?",
+  "options": {
+    "a": "The visual transparency of the carrier after fabrication",
+    "b": "The surface roughness of the carrier without measuring drug content",
+    "c": "The number of processing steps used to prepare the carrier",
+    "d": "The amount of drug successfully incorporated relative to the amount initially used"
+  },
+  "answer": "d",
+  "explanation": "Drug loading efficiency describes how much of the intended drug is successfully incorporated into the delivery system. It should be quantified rather than inferred from appearance or processing description."
+},
+{
+  "id": "3a430c0e-b0d7-4915-9460-d7f91a5535e5",
+  "section": "Drug Delivery Biomaterials",
+  "number": "177",
+  "question": "Which statement best explains why drug release studies should use relevant test conditions?",
+  "options": {
+    "a": "Release behaviour is mainly determined by the written description of the material",
+    "b": "Release kinetics can depend on pH, temperature, enzymes, fluid composition, and test duration",
+    "c": "Relevant test conditions are unnecessary if the carrier is biodegradable",
+    "d": "Drug release can be evaluated without considering the intended biological environment"
+  },
+  "answer": "b",
+  "explanation": "Drug release behaviour can vary with environmental conditions such as pH, temperature, enzymes, ionic strength, and fluid flow. Relevant test conditions improve interpretation for the intended application."
+},
+{
+  "id": "f1559a17-39c2-4b7e-a1d5-7bbdbdbd7c79",
+  "section": "Drug Delivery Biomaterials",
+  "number": "178",
+  "question": "Which statement best describes the role of nanoparticles in biomaterial-based drug delivery?",
+  "options": {
+    "a": "They can be engineered to carry therapeutic agents and influence release, targeting, or cellular uptake",
+    "b": "They are used mainly because particle size has no effect on biological behaviour",
+    "c": "They eliminate the need to evaluate toxicity, biodistribution, or clearance",
+    "d": "They are suitable only when drug release should occur immediately after fabrication"
+  },
+  "answer": "a",
+  "explanation": "Nanoparticles can be designed to carry therapeutic molecules and influence delivery behaviour. Their size, surface chemistry, degradation, toxicity, biodistribution, and clearance must still be evaluated."
+},
+{
+  "id": "c0c7a7f8-633d-4e73-9f49-b08ef35ea913",
+  "section": "Drug Delivery Biomaterials",
+  "number": "179",
+  "question": "Which concern is most relevant when using biodegradable polymers for drug delivery?",
+  "options": {
+    "a": "Whether the polymer is visually similar to the drug formulation",
+    "b": "Whether the carrier prevents any drug-polymer interaction",
+    "c": "Whether degradation products, release rate, and local tissue response are acceptable",
+    "d": "Whether the polymer has the same stiffness as cortical bone in every application"
+  },
+  "answer": "c",
+  "explanation": "Biodegradable polymer carriers should be evaluated for degradation products, release profile, local pH changes, tissue compatibility, and whether degradation matches the therapeutic goal."
+},
+{
+  "id": "e7e1f730-79ad-42d5-b77b-cfb9a5bb25d8",
+  "section": "Drug Delivery Biomaterials",
+  "number": "180",
+  "question": "Which statement should be avoided when a drug delivery study only reports in vitro release data?",
+  "options": {
+    "a": "The carrier released drug over the tested time period",
+    "b": "The release profile may be relevant to the tested conditions",
+    "c": "Further biological testing may be needed to assess efficacy and safety",
+    "d": "The system is proven clinically effective for human treatment"
+  },
+  "answer": "d",
+  "explanation": "In vitro release data can show release behaviour under defined conditions, but it does not prove clinical efficacy or safety. Biological activity, toxicity, pharmacokinetics, and clinical evidence may be needed."
+},
+{
+  "id": "f6126bfa-9b9f-42d7-a61a-82986c9b8410",
+  "section": "Drug Delivery Biomaterials",
+  "number": "181",
+  "question": "Which statement best explains why drug bioactivity should be assessed after release from a biomaterial?",
+  "options": {
+    "a": "A released molecule may lose activity during loading, storage, degradation, or release",
+    "b": "Drug concentration measurements prove biological activity in every tissue",
+    "c": "Bioactivity testing is unnecessary if the drug was successfully loaded",
+    "d": "Drug bioactivity depends mainly on the colour of the delivery carrier"
+  },
+  "answer": "a",
+  "explanation": "A drug may be chemically or structurally altered during encapsulation, storage, or release. Measuring release amount alone does not confirm that the released drug remains biologically active."
+},
+{
+  "id": "0bbd6cf8-8f65-4c22-9c63-e045ff7e7766",
+  "section": "Drug Delivery Biomaterials",
+  "number": "182",
+  "question": "Which factor can influence whether a drug delivery biomaterial causes local toxicity?",
+  "options": {
+    "a": "The number of words used in the material name",
+    "b": "The order of images in the experimental report",
+    "c": "Drug dose, release rate, degradation products, and local tissue sensitivity",
+    "d": "The use of a polymer carrier without considering released concentration"
+  },
+  "answer": "c",
+  "explanation": "Local toxicity can depend on drug concentration, release kinetics, degradation products, local pH, tissue type, and exposure duration. These factors should be assessed experimentally."
+},
+{
+  "id": "a30eab39-e3f1-4fd1-b035-43f93d9ddc43",
+  "section": "Drug Delivery Biomaterials",
+  "number": "183",
+  "question": "Which statement best describes a limitation of comparing drug release studies across different papers?",
+  "options": {
+    "a": "Release studies are directly comparable whenever the same drug name is used",
+    "b": "Different test media, sampling times, sink conditions, and quantification methods can affect comparison",
+    "c": "Release profiles are unaffected by polymer composition or crosslinking density",
+    "d": "Different drug loading methods produce equivalent release behaviour by default"
+  },
+  "answer": "b",
+  "explanation": "Drug release studies can differ in media composition, temperature, pH, sink conditions, time points, quantification methods, carrier geometry, and loading method. These differences can limit direct comparison."
+},
+{
+  "id": "bd8d6268-7392-4f57-82d2-61f3bb046965",
+  "section": "Drug Delivery Biomaterials",
+  "number": "184",
+  "question": "Which statement best explains why scaffold-based drug delivery may be useful in tissue engineering?",
+  "options": {
+    "a": "It separates biochemical signalling from the tissue regeneration site",
+    "b": "It prevents cells from interacting with the scaffold during regeneration",
+    "c": "It makes scaffold degradation irrelevant to tissue formation",
+    "d": "It can provide local release of bioactive molecules to influence cell behaviour and tissue repair"
+  },
+  "answer": "d",
+  "explanation": "Scaffold-based delivery can release growth factors, drugs, or other bioactive molecules locally, helping regulate cell survival, proliferation, differentiation, or tissue formation."
+},
+{
+  "id": "bb53f45d-4d8e-4d09-bd6d-42a7fdd81692",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "185",
+  "question": "Which response best reflects cautious interpretation of biomaterials evidence?",
+  "options": {
+    "a": "The conclusion should match the strength and type of evidence available",
+    "b": "A positive in vitro result should be treated as proof of clinical performance",
+    "c": "Material superiority can be concluded without considering application context",
+    "d": "Unsupported claims are acceptable if the mechanism sounds plausible"
+  },
+  "answer": "a",
+  "explanation": "Biomaterials evidence should be interpreted according to its strength, context, and limitations. Conclusions should not exceed what the data can support."
+},
+{
+  "id": "78d2f182-39ed-4a9d-923c-8c4ea98b610e",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "186",
+  "question": "Which statement best explains why in vitro evidence alone may be insufficient for clinical claims?",
+  "options": {
+    "a": "In vitro studies are mainly useful because they reproduce all patient-level variables",
+    "b": "Clinical effectiveness is determined only by material chemistry",
+    "c": "In vivo environments include immune response, mechanical loading, vascularisation, degradation, and patient variability",
+    "d": "In vitro results are irrelevant for early biomaterial screening"
+  },
+  "answer": "c",
+  "explanation": "In vitro studies are useful but simplified. Clinical performance depends on complex biological, mechanical, and patient-specific factors that are not fully reproduced in vitro."
+},
+{
+  "id": "f4f12a96-90c1-4cb0-9c67-ff2538a2223d",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "187",
+  "question": "Which statement best describes how conflicting biomaterials studies should be interpreted?",
+  "options": {
+    "a": "The study with the most positive conclusion should be accepted as correct",
+    "b": "Differences in material processing, model system, controls, and outcome measures should be compared",
+    "c": "Conflicting results should be ignored if both studies use the same material name",
+    "d": "A single study should be used to make broad conclusions across all applications"
+  },
+  "answer": "b",
+  "explanation": "Conflicting results may arise from differences in fabrication, sterilisation, cell type, animal model, mechanical loading, controls, and measurement methods. These factors should be examined before drawing conclusions."
+},
+{
+  "id": "73df12c1-d2d9-45d5-a658-b7383685cfb4",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "188",
+  "question": "Which type of evidence would most strongly support a claim that a scaffold improves tissue regeneration?",
+  "options": {
+    "a": "A statement that the scaffold has a porous structure",
+    "b": "Material characterisation without biological or functional outcome data",
+    "c": "A short-term image showing that cells were placed on the scaffold",
+    "d": "Controlled biological and functional data showing improved tissue formation compared with relevant controls"
+  },
+  "answer": "d",
+  "explanation": "A claim about improved tissue regeneration should be supported by relevant biological and functional outcomes, ideally with appropriate controls and context-specific measures."
+},
+{
+  "id": "9bb3e59a-b64e-4e8a-a69d-23df1180a003",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "189",
+  "question": "Which statement best explains why control groups are important in biomaterials studies?",
+  "options": {
+    "a": "They help determine whether observed effects are due to the biomaterial rather than background conditions or experimental variation",
+    "b": "They are mainly used to make figures visually consistent",
+    "c": "They remove the need for statistical analysis or repeated experiments",
+    "d": "They are unnecessary if the biomaterial has a known chemical composition"
+  },
+  "answer": "a",
+  "explanation": "Control groups allow researchers to compare outcomes against baseline or alternative conditions. They are essential for interpreting whether a biomaterial caused the observed effect."
+},
+{
+  "id": "f1ee8f14-80d0-449e-a6c6-04e8b78c1b9a",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "190",
+  "question": "Which factor should be considered before concluding that one biomaterial is better than another?",
+  "options": {
+    "a": "Whether the material name appears more frequently in the literature",
+    "b": "Whether one material has a more complex synthesis route",
+    "c": "The intended application, performance criteria, evidence quality, and relevant limitations",
+    "d": "Whether the material has been tested in a visually clearer figure"
+  },
+  "answer": "c",
+  "explanation": "Biomaterial superiority is application-specific. Mechanical properties, biological response, degradation, manufacturability, safety, and evidence quality should be considered."
+},
+{
+  "id": "fcf94c6b-6256-4f0b-bd1e-b6d1d1ea168e",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "191",
+  "question": "Which statement best reflects responsible handling of uncertainty in biomaterials research?",
+  "options": {
+    "a": "Uncertainty should be removed by choosing the most confident-sounding conclusion",
+    "b": "Uncertainty should be stated clearly when evidence is limited, indirect, or context-dependent",
+    "c": "Uncertainty is unnecessary if the material has been tested in any biological assay",
+    "d": "Uncertainty should be avoided because it weakens scientific writing"
+  },
+  "answer": "b",
+  "explanation": "Responsible interpretation includes acknowledging uncertainty when evidence is incomplete or context-specific. This helps avoid unsupported or misleading conclusions."
+},
+{
+  "id": "8d7b4dc2-9dbe-4dc6-82c2-c8e6f4569697",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "192",
+  "question": "Which statement best explains why animal model data may not directly translate to human clinical performance?",
+  "options": {
+    "a": "Animal studies are mainly used for material colour assessment",
+    "b": "Human outcomes are determined only by scaffold porosity",
+    "c": "Animal models are irrelevant to biomaterials research",
+    "d": "Species differences, defect size, loading conditions, immune response, and healing mechanisms may differ from humans"
+  },
+  "answer": "d",
+  "explanation": "Animal models can provide important preclinical evidence, but species biology, anatomy, immune response, mechanical environment, and healing capacity may differ from humans."
+},
+{
+  "id": "d7264788-9a7a-4b57-880c-94b97846f79e",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "193",
+  "question": "Which interpretation is most appropriate when a biomaterial performs well in one tissue engineering application?",
+  "options": {
+    "a": "Its performance should still be evaluated separately for other tissues or clinical contexts",
+    "b": "It should be considered suitable for all tissue engineering applications",
+    "c": "Its mechanical and biological properties no longer need to be tested",
+    "d": "Its success proves that degradation and host response are not important"
+  },
+  "answer": "a",
+  "explanation": "Biomaterial performance is context-dependent. A material that works well in one application may not meet the mechanical, biological, or degradation requirements of another tissue."
+},
+{
+  "id": "673ff3db-7ac2-4fd2-bd8a-90d0aa6c102e",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "194",
+  "question": "Which statement best explains why material processing details matter in biomaterials studies?",
+  "options": {
+    "a": "Processing details matter mainly because they change the length of the methods section",
+    "b": "Processing details are less important than whether the final material has a simple name",
+    "c": "Processing can affect structure, porosity, surface chemistry, degradation, mechanics, and biological response",
+    "d": "Processing affects appearance but not material performance"
+  },
+  "answer": "c",
+  "explanation": "Processing conditions can strongly influence biomaterial structure and properties. These changes may affect mechanical behaviour, degradation, surface interactions, and cell or tissue response."
+},
+{
+  "id": "29e39e15-0c42-4b57-b0f6-68bc37e5cbf3",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "195",
+  "question": "Which statement best describes why sterilisation should be considered in biomaterial evaluation?",
+  "options": {
+    "a": "Sterilisation only changes the packaging of the biomaterial",
+    "b": "Sterilisation can affect material properties, surface chemistry, degradation, and biological response",
+    "c": "Sterilisation is unrelated to implant safety or experimental reproducibility",
+    "d": "Sterilisation removes the need for later biocompatibility testing"
+  },
+  "answer": "b",
+  "explanation": "Sterilisation is necessary for biomedical use, but it may alter material properties or biological performance. Its effects should be considered in testing and interpretation."
+},
+{
+  "id": "7f6b05c4-15b2-434e-a0e8-7eb6e54f58b3",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "196",
+  "question": "Which statement best reflects the role of material characterisation in biomaterials research?",
+  "options": {
+    "a": "Characterisation is unnecessary when biological results are positive",
+    "b": "Characterisation replaces the need for biological evaluation",
+    "c": "Characterisation should focus only on the visual appearance of the material",
+    "d": "Characterisation helps link composition, structure, and properties to biological performance"
+  },
+  "answer": "d",
+  "explanation": "Material characterisation helps explain how composition, structure, surface properties, mechanics, and degradation relate to biological outcomes."
+},
+{
+  "id": "b1057e75-b636-48e1-8abe-3512a69a6d3d",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "197",
+  "question": "Which statement best explains why outcome measures should match the research claim?",
+  "options": {
+    "a": "A claim about bone regeneration can be fully supported by measuring only hydrogel transparency",
+    "b": "A claim about antibacterial activity can be supported without bacterial testing",
+    "c": "The measured outcomes must directly evaluate the function or mechanism being claimed",
+    "d": "Outcome measures are less important when the material design is novel"
+  },
+  "answer": "c",
+  "explanation": "Claims should be supported by outcome measures that directly assess the relevant function, such as bone formation for regeneration claims or bacterial reduction for antibacterial claims."
+},
+{
+  "id": "79d67e85-d205-4568-a1ef-4f09cb25bc3f",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "198",
+  "question": "Which statement best explains why statistical and experimental reproducibility matter in biomaterials evaluation?",
+  "options": {
+    "a": "They help determine whether observed effects are reliable rather than due to random variation or isolated conditions",
+    "b": "They are mainly needed to make the results section longer",
+    "c": "They remove the need for appropriate biological controls",
+    "d": "They are unnecessary if the material has a complex fabrication method"
+  },
+  "answer": "a",
+  "explanation": "Reproducibility and appropriate statistical analysis help assess whether findings are reliable. They reduce the risk of overinterpreting isolated or variable results."
+},
+{
+  "id": "46aac70e-7d89-4e8f-a2d7-e7d1c64c73aa",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "199",
+  "question": "Which interpretation should be avoided when a biomaterial study lacks appropriate controls?",
+  "options": {
+    "a": "The study may still provide preliminary observations",
+    "b": "The absence of controls limits causal interpretation",
+    "c": "Further controlled testing would strengthen the conclusion",
+    "d": "The biomaterial effect is definitively proven by the reported outcome"
+  },
+  "answer": "d",
+  "explanation": "Without appropriate controls, it is difficult to determine whether the observed effect is caused by the biomaterial. Strong causal claims should be avoided."
+},
+{
+  "id": "3a9e1f30-2551-49c9-9019-b9d72a3dfe59",
+  "section": "Evidence Interpretation in Biomaterials",
+  "number": "200",
+  "question": "Which statement best describes how a RAG-based biomaterials system should handle unsupported claims?",
+  "options": {
+    "a": "It should present the most plausible claim as fact if the wording sounds scientific",
+    "b": "It should avoid unsupported conclusions and indicate when the retrieved evidence is insufficient",
+    "c": "It should ignore uncertainty if the user asks for a direct answer",
+    "d": "It should rely on general biomedical knowledge instead of checking retrieved evidence"
+  },
+  "answer": "b",
+  "explanation": "A RAG-based biomaterials system should ground answers in retrieved evidence. If the evidence is insufficient, it should avoid unsupported claims and clearly indicate uncertainty or limitations."
+}
