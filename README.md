@@ -58,3 +58,4 @@ python Textbook_embedding_Yaxi/question_bank_convert_open_ended.py
 This folder is structured to match `Textbook_embedding_Yaxi` on the upstream repo. After committing here, push to your fork or open a PR against [YaxiiC/BiomaterialsGPT](https://github.com/YaxiiC/BiomaterialsGPT).
 
 Do not commit: PDFs, FAISS indices, metadata CSVs, or files under `local/`.
+check
