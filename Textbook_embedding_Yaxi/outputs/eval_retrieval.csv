@@ -1,0 +1,21 @@
+id,number,question,baseline_hit1,baseline_hit3,baseline_hit5,baseline_mrr,baseline_top_rel,advanced_hit1,advanced_hit3,advanced_hit5,advanced_mrr,advanced_top_rel,concept_map_hit1,concept_map_hit3,concept_map_hit5,concept_map_mrr,concept_map_top_rel
+ref-open-001,1,What is a biomaterial?,1,1,1,1.0,0.607,1,1,1,1.0,0.607,1,1,1,1.0,0.607
+ref-open-002,2,What is biocompatibility?,1,1,1,1.0,0.477,0,1,1,0.5,0.477,0,0,0,0.0,0.418
+ref-open-003,3,What is osteoconduction?,0,0,0,0.0,0.411,0,0,1,0.2,0.455,0,0,0,0.0,0.415
+ref-open-004,4,What is hydroxyapatite?,0,0,0,0.0,0.442,0,0,0,0.0,0.438,0,0,0,0.0,0.41
+ref-open-005,5,What is a hydrogel?,1,1,1,1.0,0.596,1,1,1,1.0,0.596,1,1,1,1.0,0.596
+ref-open-006,6,Explain the main stages of the foreign body response to an implanted biomaterial.,1,1,1,1.0,0.544,1,1,1,1.0,0.505,0,1,1,0.5,0.527
+ref-open-007,7,Describe how scaffold porosity affects cell infiltration and nutrient transport.,1,1,1,1.0,0.696,1,1,1,1.0,0.696,0,1,1,0.5,0.696
+ref-open-008,8,Compare osteoconduction and osteoinduction.,0,1,1,0.333,0.473,0,1,1,0.5,0.453,0,1,1,0.5,0.453
+ref-open-009,9,Explain how hydrogel crosslinking affects swelling and mechanical properties.,1,1,1,1.0,0.541,1,1,1,1.0,0.541,1,1,1,1.0,0.541
+ref-open-010,10,Describe the main causes of orthopaedic implant failure.,1,1,1,1.0,0.458,0,1,1,0.333,0.458,0,0,1,0.25,0.458
+ref-open-011,11,"Which scaffold properties should be considered for bone tissue engineering, and why?",1,1,1,1.0,0.683,1,1,1,1.0,0.683,1,1,1,1.0,0.683
+ref-open-012,12,How would you choose between a natural hydrogel and a synthetic hydrogel for cartilage tissue engineering?,1,1,1,1.0,0.647,1,1,1,1.0,0.59,1,1,1,1.0,0.59
+ref-open-013,13,Why might hydroxyapatite be used as a coating on metallic implants rather than as a bulk load-bearing implant?,0,0,0,0.0,0.391,0,0,0,0.0,0.388,0,0,0,0.0,0.365
+ref-open-014,14,How can antibacterial biomaterials balance infection control with host-cell compatibility?,0,0,0,0.0,0.399,0,0,0,0.0,0.378,0,0,0,0.0,0.393
+ref-open-015,15,How can biomaterials be designed for controlled drug delivery?,1,1,1,1.0,0.479,0,0,1,0.25,0.479,0,0,0,0.0,0.45
+ref-open-016,16,How should insufficient evidence be handled when interpreting biomaterials research?,0,0,0,0.0,0.295,0,0,0,0.0,0.163,0,0,0,0.0,0.139
+ref-open-017,17,Why should in vitro results not be directly overgeneralised to clinical effectiveness?,0,1,1,0.5,0.51,0,1,1,0.333,0.463,0,0,1,0.2,0.463
+ref-open-018,18,How should conflicting results between biomaterials studies be interpreted?,0,0,0,0.0,0.353,0,0,0,0.0,0.302,0,0,0,0.0,0.302
+ref-open-019,19,What types of evidence would support a claim that a biomaterial improves bone regeneration?,1,1,1,1.0,0.564,1,1,1,1.0,0.527,1,1,1,1.0,0.517
+ref-open-020,20,What factors should be considered before concluding that one biomaterial is superior to another?,1,1,1,1.0,0.559,1,1,1,1.0,0.559,1,1,1,1.0,0.559
